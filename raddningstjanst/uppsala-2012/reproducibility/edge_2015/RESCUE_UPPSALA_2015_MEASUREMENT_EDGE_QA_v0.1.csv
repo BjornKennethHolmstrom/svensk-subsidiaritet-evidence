@@ -1,0 +1,5 @@
+municipality_code,year,seven_categories_complete,positive_population,authorized_key,extent_missing_n,valid_extent_n,primary_n,primary_rate_per_100k,qa_status
+0380,2015,True,True,True,0,169,57,27.306174069673858,PASS
+0680,2015,True,True,True,0,136,32,24.1100018835939,PASS
+2560,2015,True,True,True,0,10,4,48.91769597651951,PASS
+2581,2015,True,True,True,0,41,16,38.528221922558274,PASS

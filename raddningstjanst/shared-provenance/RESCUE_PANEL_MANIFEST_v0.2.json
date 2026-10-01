@@ -1,0 +1,69 @@
+{
+  "version": "Raddningstjanst-Treatment-History-Reconstruction-v0.2",
+  "created": "2026-09-10",
+  "status": "RECONSTRUCTION_COMPLETE_NOT_CAUSAL_LOCK",
+  "outcome_firewall": "CLOSED",
+  "post_treatment_outcome_values_opened": false,
+  "panel_window": [
+    1998,
+    2020
+  ],
+  "qa": {
+    "municipalities": 290,
+    "municipality_year_rows": 6670,
+    "exact_first_treatment_municipalities": 75,
+    "exact_independent_event_ids": 40,
+    "pretreated_by_1998": 54,
+    "interval_or_snapshot_only": 24,
+    "reversal_excluded": 3,
+    "unresolved": 134,
+    "exact_event_conflicts_with_earlier_full_snapshot": 0,
+    "outcome_values_opened": false
+  },
+  "files": {
+    "RESCUE_A_HISTORY_v0.2.csv": {
+      "sha256": "efaa7c9299c72e24c28f422820d8581f834fd9df8c5750df284c892b152357da",
+      "bytes": 98989
+    },
+    "RESCUE_INSTITUTIONAL_EVENTS_v0.2.csv": {
+      "sha256": "01796c1a9b59153eec6f19c4e9005a0f732f252628d0ef5f9e1f636970616dcb",
+      "bytes": 11968
+    },
+    "RESCUE_K_HISTORY_v0.2.csv": {
+      "sha256": "a239a575663f0adc65d659338b778e1641f33626430ee0f2c24d7f9cb561083f",
+      "bytes": 11842
+    },
+    "RESCUE_MUNICIPALITY_TREATMENT_v0.2.csv": {
+      "sha256": "3e7f6d294d604c547a7bee252ed210c5c44c6f281f05ca40f9b7df0a0035d5f7",
+      "bytes": 55638
+    },
+    "RESCUE_MUNICIPALITY_YEAR_v0.2.csv": {
+      "sha256": "9fa946ea560d42b34301bf79883ad50497e27f4c16482427f97ac62fa389c210",
+      "bytes": 905371
+    },
+    "RESCUE_NATIONAL_QA_v0.2.csv": {
+      "sha256": "22f3e76aa28e9b5f326189a229851b90e85e7943d0a333eccdda53392bc6c24e",
+      "bytes": 1122
+    },
+    "RESCUE_RECONSTRUCTION_QA_v0.2.json": {
+      "sha256": "6fa8e9ebc5f56babcb35fc2a0b684daab191eaf1adb7f64bf2284049982fc484",
+      "bytes": 2046
+    },
+    "RESCUE_SNAPSHOT_MEMBERSHIP_v0.2.csv": {
+      "sha256": "4812c1acb19fec400c26cc8a670896c7232fffffd6247deffe924f4c8325a1d4",
+      "bytes": 34130
+    },
+    "RESCUE_TREATMENT_LOCK_CANDIDATES_v0.2.csv": {
+      "sha256": "cc7790f492792b7330045ce9d42652f07e7040c39cd1c5059ed7ba3d4b0684ae",
+      "bytes": 17419
+    },
+    "Raddningstjanst-Treatment-History-Reconstruction-v0.2.md": {
+      "sha256": "45e0a244ec33a5468b0b1a99e48004820046264d82fb969dc880d04d8caeb31e",
+      "bytes": 5078
+    },
+    "Raddningstjanst-Treatment-History-Reconstruction-v0.2.xlsx": {
+      "sha256": "666d328e90dedb525fe96a29b657ebb3c86fd244c18b016f0a85cad86fc52c45",
+      "bytes": 676546
+    }
+  }
+}

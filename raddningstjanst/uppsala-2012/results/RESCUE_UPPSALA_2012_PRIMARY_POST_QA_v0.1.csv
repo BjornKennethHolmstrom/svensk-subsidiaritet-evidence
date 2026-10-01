@@ -1,0 +1,13 @@
+municipality_code,municipality_name,year,seven_categories_complete,counts_nonnegative_integer,positive_mean_population,authorized_key,extent_missing_n,extent_missing_share,valid_extent_n,primary_n,primary_rate_per_100k,qa_status
+0380,Uppsala,2012,True,True,True,True,0,0.0,192,64,31.791290179968506,PASS
+0380,Uppsala,2013,True,True,True,True,1,0.004784688995215311,208,89,43.646278786927695,PASS
+0380,Uppsala,2014,True,True,True,True,0,0.0,206,80,38.78214373147244,PASS
+0680,Jönköping,2012,True,True,True,True,0,0.0,157,39,30.258007704154267,PASS
+0680,Jönköping,2013,True,True,True,True,0,0.0,172,50,38.42075335413177,PASS
+0680,Jönköping,2014,True,True,True,True,0,0.0,155,38,28.90415230966996,PASS
+2560,Älvsbyn,2012,True,True,True,True,0,0.0,12,5,60.77918920561599,PASS
+2560,Älvsbyn,2013,True,True,True,True,0,0.0,5,2,24.437927663734115,PASS
+2560,Älvsbyn,2014,True,True,True,True,0,0.0,12,5,61.20325601321991,PASS
+2581,Piteå,2012,True,True,True,True,0,0.0,59,18,43.891733723482076,PASS
+2581,Piteå,2013,True,True,True,True,0,0.0,52,23,55.85506824032251,PASS
+2581,Piteå,2014,True,True,True,True,0,0.0,44,15,36.23801125794216,PASS

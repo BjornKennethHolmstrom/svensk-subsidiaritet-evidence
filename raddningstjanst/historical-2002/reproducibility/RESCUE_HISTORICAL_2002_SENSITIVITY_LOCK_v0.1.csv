@@ -1,0 +1,8 @@
+sensitivity_id,name,change,purpose,classification_rule
+PW1,ENDPOINTS_ONLY_PRE,Use 1998 and 2000 as pre; keep 2003-2004 post,Check dependence on 1999 dip,Compare point-estimate side of 1 with primary
+PW2,LATEST_CLEAN_PRE,Use 2000 only as pre; keep 2003-2004 post,Check dependence on older baseline years,Compare point-estimate side of 1 with primary
+MISS_LOW,ADVERSARIAL_LOWER_IRR,Treated pre missing=primary; treated post missing=non-primary; control pre missing=non-primary; control post missing=primary,Lower bound on treatment IRR,Together with MISS_HIGH forms missingness direction bound
+MISS_HIGH,ADVERSARIAL_UPPER_IRR,Treated pre missing=non-primary; treated post missing=primary; control pre missing=primary; control post missing=non-primary,Upper bound on treatment IRR,"If [low,high] crosses 1 => MISSINGNESS_DIRECTION_NOT_ROBUST"
+LOTO,LEAVE_ONE_TREATED_EVENT_OUT,"Refit primary model five times, dropping one treated event",Treated-event dependence,If any point estimate flips side of 1 => TREATED_EVENT_SENSITIVE
+LOCO,LEAVE_ONE_CONTROL_EVENT_OUT,"Refit primary model twenty times, dropping one control event",Control-system dependence,Report min/max IRR and any sign flip
+FORM,LEGAL_FORM_DESCRIPTIVE,Estimate common-board and federation treated subsets separately against full controls,Explore institutional-form heterogeneity,Descriptive only; no subgroup significance claims

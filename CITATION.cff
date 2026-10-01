@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this evidence corpus, please cite the repository and the specific versioned study artifact or release."
+title: "Svensk Subsidiaritet — Evidence"
+type: dataset
+authors:
+  - family-names: "Holmström"
+    given-names: "Björn Kenneth"
+version: "0.1.0"
+date-released: 2026-10-01
+license: CC-BY-4.0

@@ -1,0 +1,46 @@
+section,parameter,locked_value,status,rationale
+SCOPE,treated_outcome_unit,Uppsala municipality (0380),LOCKED,Public B20 feasibility is strongest for Uppsala municipality; Tierp and Östhammar had prior full-A history from 2005 and therefore are not untreated components of a new 2012 three-municipality formation.
+SCOPE,treatment_contrast,Existing operational cooperation K -> formal pooled authority A/common board,LOCKED,Uppsala had county rescue-service cooperation/shared leadership before the 2012 common board.
+SCOPE,causal_estimand,Short-run effect on Uppsala's severe final-extent building-fire rate under A in 2012–2014 versus the counterfactual rate had Uppsala remained in a comparable K-without-A governance state,LOCKED,Local ATT-like estimand for Uppsala; not a universal merger effect.
+TIME,clean_pre_period,2007;2008;2009,LOCKED,Frozen before the missing donor outcomes were opened.
+TIME,anticipation_excluded,2010;2011,LOCKED,Directional commitment occurred in 2010; implementation/anticipation cannot be treated as clean pre-period.
+TIME,strict_post_period,2012;2013;2014,LOCKED,"First three A years, entirely inside the legacy 2005–2015 incident-report regime."
+TIME,extended_edge_sensitivity,2015 only as explicit measurement-edge sensitivity,LOCKED,2015 is not primary because the händelserapport transition begins at the end of 2015.
+OUTCOME,primary_outcome,FIRE_FINAL_BEYOND_START_OBJECT_RATE_PER_100K,LOCKED,"B20 final-extent codes 2+3+4+5 divided by SCB annual mean population ×100,000."
+OUTCOME,primary_numerator,B20 codes 2;3;4;5,LOCKED,Final spread beyond the first ignited object.
+OUTCOME,population_exposure,SCB annual mean population = (P_31Dec_tminus1 + P_31Dec_t)/2,LOCKED,Calendar-year incident flow requires annual exposure population.
+OUTCOME,secondary_conditional_share,(codes 2+3+4+5)/(codes 6+1+2+3+4+5),LOCKED,Conditional severity among attended/reported incidents; not primary because treatment may affect dispatch/reporting composition.
+OUTCOME,threshold_sensitivity_1,Beyond start room share = codes 3+4+5 / valid extent,LOCKED,Previously preregistered stricter threshold.
+OUTCOME,threshold_sensitivity_2,Beyond firecell share = codes 4+5 / valid extent,LOCKED,Previously preregistered severe-tail threshold.
+DONOR,primary_donor,Jönköping / RäddSam F (CTRL_RADDSAM_F_JKPG),ACTIVATION_GATE,Strongest structural K-without-A donor; primary analysis may run only after archival A=0/no-A-commitment through 2014 is closed.
+DONOR,secondary_donor,Piteå–Älvsbyn / Femkanten (CTRL_PITEA_ALVSBYN),LOCKED_SECONDARY,Best pre-match outcome fit and useful K->later-A path analogue; never promoted to primary based on fit.
+DONOR,halmstad_role,Sensitivity only if exact pre-2010 shared-leadership K is verified before its post outcomes are opened,CONDITIONAL,Broad cooperation alone is insufficient for structural equivalence.
+DONOR,skane_nw_role,Cluster-level robustness only; Höganäs+Båstad+Bjuv population-pooled,LOCKED_ROBUSTNESS,Members share a K-network and are not independent; municipality paths are heterogeneous.
+DONOR,between_system_weighting,No outcome-optimized weights; no synthetic-control weights; no pooled primary ensemble,LOCKED,Avoid overfitting and post-hoc donor weighting with only three clean pre years.
+DONOR,within_multimunicipality_system_weighting,Pool counts and population exposure before computing rates,LOCKED,Prevents pseudo-replication and gives natural exposure weighting.
+ESTIMATOR,primary_estimator,"Period-aggregated controlled ratio-of-rate-ratios (RRR), Uppsala vs Jönköping",LOCKED,Transparent count/exposure estimator requiring no optimized weights.
+ESTIMATOR,primary_formula,[(C_U_post/E_U_post)/(C_U_pre/E_U_pre)] / [(C_J_post/E_J_post)/(C_J_pre/E_J_pre)],LOCKED,RRR < 1 means Uppsala's severe-fire rate fell more (or rose less) than Jönköping's.
+ESTIMATOR,absolute_companion,"Controlled difference in period rates per 100,000",LOCKED,Adds an absolute-effect scale to the multiplicative RRR.
+ESTIMATOR,year_balanced_sensitivity,Geometric mean annual Uppsala/donor rate ratio in post divided by geometric mean in pre,LOCKED_SENSITIVITY,Checks whether period aggregation is driven by exposure weighting.
+ESTIMATOR,poisson_model_check,"Optional Poisson/PPML DID with log(population) offset, unit FE and year FE; point-estimate diagnostic only",LOCKED_TERTIARY,Count-compatible functional-form check; conventional few-cluster p-values are not used.
+INFERENCE,primary_count_interval,95% Poisson count-process interval for log(RRR): SE=sqrt(1/C_U_post+1/C_U_pre+1/C_J_post+1/C_J_pre),LOCKED,Captures event-count sampling variation only; explicitly not a full causal-confidence interval.
+INFERENCE,cluster_robust_pvalue,DO NOT USE as primary inference,LOCKED,One treated unit and very few independent systems make standard large-cluster asymptotics inappropriate.
+INFERENCE,permutation_pvalue,DO NOT CLAIM formal significance from 4-system placebo ranks,LOCKED,Permutation support is too small/coarse and systems are not exchangeable enough for a credible exact test.
+INFERENCE,donor_robustness_rule,Always report Jönköping and Piteå–Älvsbyn donor-specific RRRs side by side,LOCKED,Counterfactual dependence is more informative here than fragile asymptotic significance.
+INFERENCE,donor_sign_flag,"If Jönköping and Piteå–Älvsbyn RRRs lie on opposite sides of 1, label DONOR_SENSITIVE/INCONCLUSIVE",LOCKED,Primary-donor significance cannot override opposite directional evidence from the prespecified secondary donor.
+MISSINGNESS,extent_missing_rule,Always report missing share and worst-case RRR bounds; never recode -1 using observed outcome direction,LOCKED,Missing final extent could otherwise bias the severity numerator.
+MISSINGNESS,lower_RRR_bound_assignment,U_post missing=nonsevere; U_pre missing=severe; donor_post missing=severe; donor_pre missing=nonsevere,LOCKED,Worst case toward a lower treatment RRR.
+MISSINGNESS,upper_RRR_bound_assignment,Reverse of lower-bound assignment,LOCKED,Worst case toward a higher treatment RRR.
+QUALITY,known_missingness_2012_2014,0 known ledger flags among protocol municipalities at protocol freeze,LOCKED,Checked before post outcomes are opened.
+QUALITY,raw_schema_gate,Every requested municipality-year must contain all 7 locked final-extent categories exactly once,LOCKED_STOP_RULE,Any schema/coverage failure halts estimation until resolved.
+QUALITY,population_gate,Every requested municipality-year requires positive SCB mean population,LOCKED_STOP_RULE,No denominator imputation.
+QUALITY,new_measurement_break,"If a previously unknown unit-specific reporting break affecting 2012–2014 is discovered, log it before effect interpretation and report locked + break-adjusted sensitivity; never silently delete years",LOCKED,Prevents outcome-responsive exclusion.
+SENSITIVITY,conservative_anticipation,"Re-estimate primary RRR using 2007–2008 as pre period, treating 2009–2011 as anticipation",LOCKED,Tests sensitivity to the 2009 formal deeper-cooperation study.
+SENSITIVITY,2015_edge,Add 2015 to post only after strict result is produced; label measurement-edge extended-horizon sensitivity,LOCKED,Does not alter primary 2012–2014 estimate.
+SENSITIVITY,skane_cluster,Population-pooled Skåne NW donor result plus Höganäs-only descriptive check,LOCKED_ROBUSTNESS,Tests cluster heterogeneity without treating members as independent.
+REPORTING,binary_success_rule,NONE,LOCKED,No p<0.05 or arbitrary magnitude threshold defines success/failure.
+REPORTING,required_flags,primary_direction; count_interval_crosses_1; donor_sign_consistency; missingness_bound_crosses_1; structural_caveats,LOCKED,Keeps evidence dimensions separate.
+REPORTING,generalization_limit,Do not generalize from Uppsala to all municipal mergers/federations,LOCKED,"Single-event, local K->A integration design."
+FIREWALL,primary_unmask_order,Only after Jönköping A=0 gate is PASS and protocol manifest is frozen,LOCKED_STOP_RULE,No post-treatment outcome peeking before design activation.
+FIREWALL,primary_unmask_batch,"2012–2014 only for Uppsala, Jönköping, Piteå and Älvsbyn",LOCKED,Minimum data needed for primary + prespecified secondary donor estimate.
+FIREWALL,secondary_unmask_batch,Halmstad only after K gate; Skåne NW robustness; 2011 anticipation and 2015 edge only after primary strict output,LOCKED,Sequentially separates primary from diagnostics without allowing role changes.

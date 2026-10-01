@@ -1,0 +1,61 @@
+{
+  "version": "RESCUE_HISTORICAL_2002_PRIMARY_RATE_PRETREND_AUDIT_v0.1",
+  "outcome_firewall": "PASS_1998_2000_ONLY",
+  "scb_population": {
+    "table": "TAB638",
+    "matrix": "BE0101N1",
+    "stock_years": [
+      1997,
+      1998,
+      1999,
+      2000
+    ],
+    "stock_rows": 168,
+    "denominator_rows": 126,
+    "formula": "(P_tminus1 + P_t)/2"
+  },
+  "population_pooled": {
+    "treated_rates": {
+      "1998": 24.746090432280642,
+      "1999": 24.04789327798099,
+      "2000": 18.225899426943812
+    },
+    "control_rates": {
+      "1998": 29.19050265519617,
+      "1999": 33.57492619286248,
+      "2000": 20.081351111388095
+    },
+    "treated_control_rate_ratio": {
+      "1998": 0.8477445806461855,
+      "1999": 0.7162456036342146,
+      "2000": 0.907603244714343
+    },
+    "treated_control_log_rate_ratio_slope_per_year": 0.03411396979744079,
+    "relative_trend_direction": "POSITIVE"
+  },
+  "event_equal": {
+    "treated_mean_slope_per_100k_per_year": -4.040646445615836,
+    "control_mean_slope_per_100k_per_year": 0.28073569621247546,
+    "treated_minus_control_mean_slope_gap": -4.321382141828312,
+    "descriptive_exact_permutation_two_sided_tail_fraction": 0.359476755128929,
+    "descriptive_exact_permutation_assignments": 53130,
+    "warning": "Permutation rank is descriptive only; treatment assignment was not randomized."
+  },
+  "missingness": {
+    "pooled_rate_ratio_lower_by_year": {
+      "1998": 0.8042704995874067,
+      "1999": 0.6920117298270421,
+      "2000": 0.9056514097794734
+    },
+    "pooled_rate_ratio_upper_by_year": {
+      "1998": 1.4512237736485551,
+      "1999": 0.7162456036342146,
+      "2000": 0.907603244714343
+    },
+    "lower_boundary_log_slope": 0.05935940985960132,
+    "upper_boundary_log_slope": -0.2346775666703293,
+    "classification": "MISSINGNESS_CAN_CHANGE_RELATIVE_TREND_DIRECTION"
+  },
+  "pretrend_decision_rule": "NO_BINARY_PARALLEL_TRENDS_PASS_FAIL_WITH_THREE_PRE_YEARS",
+  "estimator_freeze_status": "READY_FOR_SEPARATE_ESTIMATOR_PROTOCOL_FREEZE_AFTER_REVIEW"
+}

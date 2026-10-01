@@ -1,0 +1,10 @@
+municipality_code,municipality_name,year,seven_categories_complete,counts_nonnegative_integer,positive_population,extent_missing_n,extent_missing_share,valid_extent_n,primary_n,primary_rate_per_100k,qa_status
+1260,Bjuv,2012,True,True,True,0,0.0,11,7,47.111081199313524,PASS
+1260,Bjuv,2013,True,True,True,0,0.0,12,5,33.70748643273671,PASS
+1260,Bjuv,2014,True,True,True,0,0.0,21,10,67.35140596059942,PASS
+1278,Båstad,2012,True,True,True,0,0.0,17,6,42.11560734215421,PASS
+1278,Båstad,2013,True,True,True,0,0.0,20,9,63.07379634171981,PASS
+1278,Båstad,2014,True,True,True,0,0.0,14,7,48.790687948700075,PASS
+1284,Höganäs,2012,True,True,True,0,0.0,56,14,56.496035188959056,PASS
+1284,Höganäs,2013,True,True,True,1,0.01694915254237288,58,11,44.04668949086031,PASS
+1284,Höganäs,2014,True,True,True,0,0.0,45,9,35.72704537334762,PASS

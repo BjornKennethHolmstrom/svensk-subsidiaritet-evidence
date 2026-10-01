@@ -1,0 +1,101 @@
+{
+  "municipalities": 290,
+  "municipality_year_rows": 6670,
+  "exact_first_treatment_municipalities": 75,
+  "exact_independent_event_ids": 40,
+  "pretreated_by_1998": 54,
+  "interval_or_snapshot_only": 24,
+  "reversal_excluded": 3,
+  "unresolved": 134,
+  "exact_event_conflicts_with_earlier_full_snapshot": 0,
+  "outcome_values_opened": false,
+  "status": "RECONSTRUCTION_COMPLETE_NOT_CAUSAL_LOCK",
+  "outcome_firewall": "CLOSED",
+  "exact_cohort_summary": [
+    {
+      "year": 1999,
+      "municipalities": 2,
+      "independent_event_ids": 1
+    },
+    {
+      "year": 2000,
+      "municipalities": 11,
+      "independent_event_ids": 4
+    },
+    {
+      "year": 2001,
+      "municipalities": 2,
+      "independent_event_ids": 2
+    },
+    {
+      "year": 2002,
+      "municipalities": 9,
+      "independent_event_ids": 5
+    },
+    {
+      "year": 2003,
+      "municipalities": 2,
+      "independent_event_ids": 1
+    },
+    {
+      "year": 2004,
+      "municipalities": 9,
+      "independent_event_ids": 4
+    },
+    {
+      "year": 2005,
+      "municipalities": 6,
+      "independent_event_ids": 3
+    },
+    {
+      "year": 2006,
+      "municipalities": 6,
+      "independent_event_ids": 2
+    },
+    {
+      "year": 2007,
+      "municipalities": 3,
+      "independent_event_ids": 3
+    },
+    {
+      "year": 2009,
+      "municipalities": 6,
+      "independent_event_ids": 3
+    },
+    {
+      "year": 2010,
+      "municipalities": 6,
+      "independent_event_ids": 4
+    },
+    {
+      "year": 2012,
+      "municipalities": 1,
+      "independent_event_ids": 1
+    },
+    {
+      "year": 2013,
+      "municipalities": 4,
+      "independent_event_ids": 2
+    },
+    {
+      "year": 2015,
+      "municipalities": 4,
+      "independent_event_ids": 2
+    },
+    {
+      "year": 2018,
+      "municipalities": 1,
+      "independent_event_ids": 1
+    },
+    {
+      "year": 2019,
+      "municipalities": 1,
+      "independent_event_ids": 1
+    },
+    {
+      "year": 2020,
+      "municipalities": 2,
+      "independent_event_ids": 1
+    }
+  ]
+}

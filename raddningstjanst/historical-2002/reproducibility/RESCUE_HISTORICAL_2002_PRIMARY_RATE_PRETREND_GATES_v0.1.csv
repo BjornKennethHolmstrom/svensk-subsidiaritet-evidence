@@ -1,0 +1,9 @@
+gate,status,evidence
+SCB_1997_2000_STOCK_COVERAGE,PASS,168/168 positive SCB TAB638 stocks
+ANNUAL_MEAN_DENOMINATOR,PASS,126/126 1998–2000 denominator rows constructed
+PRIMARY_RATE_MATERIALIZATION,PASS,126/126 municipality-year primary rates constructed
+EVENT_RATE_SUPPORT,PASS,5 treated + 20 control events have complete 1998–2000 event rates
+PRIMARY_RATE_PRETREND,DESCRIPTIVE_REVIEW_REQUIRED,pooled log RR slope=0.03411396979744079; event slope gap=-4.321382141828312
+MISSINGNESS_TREND_SENSITIVITY,MISSINGNESS_CAN_CHANGE_RELATIVE_TREND_DIRECTION,observed/low/high slope signs=POSITIVE/POSITIVE/NEGATIVE
+ESTIMATOR_PROTOCOL_FREEZE,READY_FOR_NEXT_STEP_NOT_AUTOMATICALLY_FROZEN,All pre-only inputs now materialized; review pretrend diagnostics before locking causal estimator.
+POST_OUTCOME_FIREWALL,PASS_CLOSED,No 2001–2004 fire outcome read or fetched.

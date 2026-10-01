@@ -1,0 +1,44 @@
+{
+  "version": "RESCUE_UPPSALA_2012_IMPLEMENTATION_PATCH_v0.1.1",
+  "patch_type": "IMPLEMENTATION_DATA_SCHEMA_COMPLETION",
+  "method_change": false,
+  "outcome_scope_change": false,
+  "donor_change": false,
+  "time_window_change": false,
+  "estimator_change": false,
+  "reason": "Frozen runner expected two preregistered secondary threshold count columns that the compact pre-control export omitted.",
+  "fix": "Append those pre-treatment threshold columns; Jönköping recovered from MCF B20 2007–2009 only; Piteå/Älvsbyn recovered from the existing full pre-treatment B20 panel.",
+  "locked_runner_modified": false,
+  "locked_runner_sha256": "5ba96f24cf234cd834c5049871e2a3c38bf90fac928ae03c034f2f81c2f8f983",
+  "post_file_refetched": false,
+  "post_file_sha256_before_resume": "feb62ce3e1ca5dd6ac258a3af0ad907b3f8feb7d8b6ce42eceff45b50ab550e8",
+  "post_file_sha256_after_resume": "feb62ce3e1ca5dd6ac258a3af0ad907b3f8feb7d8b6ce42eceff45b50ab550e8",
+  "post_file_unchanged": true,
+  "new_post_outcomes_opened_by_patch": false,
+  "files": {
+    "RESCUE_UPPSALA_2012_PRIMARY_POST_DATA_v0.1.csv": {
+      "sha256": "feb62ce3e1ca5dd6ac258a3af0ad907b3f8feb7d8b6ce42eceff45b50ab550e8",
+      "bytes": 4483
+    },
+    "RESCUE_UPPSALA_2012_PRIMARY_POST_QA_v0.1.csv": {
+      "sha256": "e3b9831ded3d144eef6d489b858c77256b658c30d141fe912951fa4cbdbd03e5",
+      "bytes": 1154
+    },
+    "RESCUE_UPPSALA_CONTROL_PREMATCH_DATA_AUGMENTED_v0.1.1.csv": {
+      "sha256": "1d403eb4f5e06b22a5f29ca7d9080108452513ea057220318616183404291153",
+      "bytes": 5100
+    },
+    "RESCUE_JONKOPING_PREMATCH_THRESHOLD_RAW_v0.1.1.csv": {
+      "sha256": "ccce74bae81fcdd8a651a306a8f5ee1c26c531c5ab01c7302d24e660a25126d1",
+      "bytes": 453
+    },
+    "RESCUE_UPPSALA_2012_LOCKED_ESTIMATES_v0.1.csv": {
+      "sha256": "20ed7b65cedd93adcf30da191423908834283392681cbb3737b137c643812c49",
+      "bytes": 955
+    },
+    "Raddningstjanst-Uppsala-2012-Locked-Analysis-Result-v0.1.md": {
+      "sha256": "4b2c20f710f233bba3ffdb4e745a3a63c9e394cf331ee37627138253bbf531b9",
+      "bytes": 688
+    }
+  }
+}

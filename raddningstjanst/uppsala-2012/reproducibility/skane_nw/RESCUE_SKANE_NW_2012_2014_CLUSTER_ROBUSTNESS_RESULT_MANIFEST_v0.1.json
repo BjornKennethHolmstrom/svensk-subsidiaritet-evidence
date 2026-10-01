@@ -1,0 +1,64 @@
+{
+  "version": "RESCUE_SKANE_NW_2012_2014_CLUSTER_ROBUSTNESS_RESULT_MANIFEST_v0.1",
+  "new_post_outcomes": {
+    "municipalities": {
+      "1284": "Höganäs",
+      "1278": "Båstad",
+      "1260": "Bjuv"
+    },
+    "years": [
+      2012,
+      2013,
+      2014
+    ],
+    "rows": 9
+  },
+  "independence_clusters_opened": 1,
+  "primary_result_changed": false,
+  "halmstad_result_changed": false,
+  "still_closed": [
+    "2011 anticipation diagnostics",
+    "2015 measurement-edge sensitivity"
+  ],
+  "result": {
+    "pooled_rrr": 0.921327021390427,
+    "direction": "BELOW_1",
+    "classification": "MAJORITY_DIRECTIONAL_SUPPORT_WITH_HALMSTAD_DIVERGENCE",
+    "hoganas_descriptive_rrr": 0.9817945380787231,
+    "hoganas_is_independent": false
+  },
+  "files": {
+    "RESCUE_SKANE_NW_PREMATCH_THRESHOLD_RAW_v0.1.csv": {
+      "sha256": "b8569206a30a5d260cfa81d8f021875353704936127de39564d5030a7c3c6806",
+      "bytes": 1137
+    },
+    "RESCUE_SKANE_NW_2012_2014_POST_MCF_RAW_v0.1.csv": {
+      "sha256": "8d9e0e654b3c5b1cb5336216313f05c94782edd267f7961fc0644a50fac7698f",
+      "bytes": 1139
+    },
+    "RESCUE_SKANE_NW_2012_2014_POST_SCB_RAW_v0.1.csv": {
+      "sha256": "be936c432389e7040454d80eb8c614297bda2934758fa05d07878925aae559ae",
+      "bytes": 650
+    },
+    "RESCUE_SKANE_NW_2012_2014_CLUSTER_POST_DATA_v0.1.csv": {
+      "sha256": "78a0ffc3b70757290ebbc3f292d7aefd3644245691565dc08a35547d82b5a57a",
+      "bytes": 3284
+    },
+    "RESCUE_SKANE_NW_2012_2014_CLUSTER_QA_v0.1.csv": {
+      "sha256": "f73d5b2a0dee89f5684f0cba9ddd832e584f3c4b42f7891e4f75d0cede1bdcf9",
+      "bytes": 841
+    },
+    "RESCUE_SKANE_NW_2012_2014_CLUSTER_ROBUSTNESS_ESTIMATE_v0.1.csv": {
+      "sha256": "4b7378fdf354d0bd6cd7cf7df00e9939cea517e9ffa063e0c88bdf0952e59b23",
+      "bytes": 962
+    },
+    "RESCUE_HOGANAS_2012_2014_DESCRIPTIVE_CHECK_v0.1.csv": {
+      "sha256": "4edf067d502ed7b32017e014d759d9a6ddade63db1cf4a90e2237926946fa3d1",
+      "bytes": 576
+    },
+    "Raddningstjanst-Skane-NW-2012-2014-Cluster-Robustness-Result-v0.1.md": {
+      "sha256": "b8c4e89b70b723d9d02bd477ed1b29a7c6eaa8401238d6ce5e9570aa5e426507",
+      "bytes": 1658
+    }
+  }
+}

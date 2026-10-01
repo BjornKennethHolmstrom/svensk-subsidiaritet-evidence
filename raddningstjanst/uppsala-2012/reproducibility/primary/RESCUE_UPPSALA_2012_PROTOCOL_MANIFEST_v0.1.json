@@ -1,0 +1,71 @@
+{
+  "version": "Raddningstjanst-Uppsala-2012-Estimator-Analysis-Protocol-v0.1",
+  "created": "2026-09-10",
+  "status": "METHOD_LOCKED_PRIMARY_UNMASK_BLOCKED_PENDING_JONKOPING_A0_GATE",
+  "post_treatment_b20_values_used_in_protocol": false,
+  "primary_estimand": "Uppsala-specific K->A effect on FIRE_FINAL_BEYOND_START_OBJECT_RATE_PER_100K, 2012-2014",
+  "primary_donor": "CTRL_RADDSAM_F_JKPG",
+  "secondary_donor": "CTRL_PITEA_ALVSBYN",
+  "clean_pre_years": [
+    2007,
+    2008,
+    2009
+  ],
+  "anticipation_years": [
+    2010,
+    2011
+  ],
+  "strict_post_years": [
+    2012,
+    2013,
+    2014
+  ],
+  "primary_unmask_rows": 12,
+  "known_missingness_flags_strict_post_at_freeze": 0,
+  "activation_gates": {
+    "jonkoping_A0_through_2014": "OPEN",
+    "halmstad_pre2010_K": "OPEN_SENSITIVITY_ONLY",
+    "protocol_hash": "PASS"
+  },
+  "files": {
+    "Raddningstjanst-Uppsala-2012-Estimator-Analysis-Protocol-v0.1.md": {
+      "sha256": "0835842109818e94bd90cced719a476d59a81e70a1933e16ced20e4c8f305af0",
+      "bytes": 11465
+    },
+    "Raddningstjanst-Uppsala-2012-Estimator-Analysis-Protocol-v0.1.xlsx": {
+      "sha256": "829a3d2a6a313c6b81686b8b889569a507363851f4db9a7b4ddcfe103aaf022c",
+      "bytes": 296845
+    },
+    "RESCUE_UPPSALA_2012_ANALYSIS_SPEC_v0.1.csv": {
+      "sha256": "7f27d5132de80b2b612769249a26390483dbb23ea268f7a1c8ec0a70b2399f68",
+      "bytes": 8467
+    },
+    "RESCUE_UPPSALA_2012_DONOR_LOCK_v0.1.csv": {
+      "sha256": "4ce3c61c25745b57022796417afdc872f29789389742c100e024f50fe531fb9e",
+      "bytes": 1664
+    },
+    "RESCUE_UPPSALA_2012_PRIMARY_UNMASK_REQUESTS_v0.1.csv": {
+      "sha256": "df54e92ec46874fd4ef9b8c46de4e583238a87fec801b230c1409dda973100d4",
+      "bytes": 2884
+    },
+    "RESCUE_UPPSALA_2012_SECONDARY_DIAGNOSTIC_REQUESTS_v0.1.csv": {
+      "sha256": "8fc2e4e7b040962661a97e23353e466e4012ea8a1d7477dcbd67dd733d5f0695",
+      "bytes": 2190
+    },
+    "run_uppsala_2012_locked_analysis_v0.1.py": {
+      "sha256": "5ba96f24cf234cd834c5049871e2a3c38bf90fac928ae03c034f2f81c2f8f983",
+      "bytes": 9078
+    }
+  },
+  "prior_input_hashes": {
+    "RESCUE_UPPSALA_CONTROL_DONOR_CLASSIFICATION_v0.2.csv": "166ab25390a973a9ee64e80fc1a3bba33aec5adb3063c90ba4fa849e289c4eb4",
+    "RESCUE_UPPSALA_CONTROL_PREMATCH_GATES_v0.2.csv": "1407f6e887bbf0fc381c55c2852d98779749cea1a4c79fed511ed3c80cc73679",
+    "RESCUE_UPPSALA_ANTICIPATION_LOCK_v0.1.csv": "55cb3f73196ef3bbd5d0bc1aa2b62508156f3b6d54451fa6eb4ed834b934186f",
+    "RESCUE_UPPSALA_K_HISTORY_PATCH_v0.1.csv": "19cd9b6720818f360d59e11d3a7dfb25310e59b7e5bbb903d70591d94e5a924c",
+    "RESCUE_UPPSALA_CONTROL_STRUCTURAL_REVIEW_v0.1.csv": "65169d79ab0e32f73d71485b72a3eec04b7459209cceb1ad3e5cae653c9f14ba",
+    "RESCUE_UPPSALA_CONTROL_PREMATCH_DATA_v0.1.csv": "3cce3e876f001b65af8d00028e3611897e944210a18c4f9c8212eb321342f4bd",
+    "RESCUE_FIRE_B20_MUNICIPALITY_YEAR_WITH_POP_v0.1.1.csv": "4ece7d662af3b86e0896ee132c8001fdfe4aaa8e947abb937aa4fc9c1ab48449",
+    "RESCUE_FIRE_B20_CATEGORY_LOCK_v0.1.csv": "0247307b6630a9d9ed07274008d23fe7191e696fca50d31fd3d58a15572bb110",
+    "RESCUE_FIRE_B20_QUERY_SCHEMA_LOCK_v0.1.json": "11ab3df7d69669b91d7dfd912cbaf6d98df6607b22f725e02256df4009748973"
+  }
+}

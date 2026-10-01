@@ -1,0 +1,56 @@
+{
+  "version": "RESCUE_UPPSALA_2015_MEASUREMENT_EDGE_RESULT_MANIFEST_v0.1",
+  "new_outcomes": {
+    "year": 2015,
+    "municipalities": {
+      "0380": "Uppsala",
+      "0680": "Jönköping",
+      "2581": "Piteå",
+      "2560": "Älvsbyn"
+    },
+    "rows": 4
+  },
+  "strict_primary_window": [
+    2012,
+    2013,
+    2014
+  ],
+  "extended_sensitivity_window": [
+    2012,
+    2013,
+    2014,
+    2015
+  ],
+  "primary_result_changed": false,
+  "classification": "CORE_DIRECTION_PERSISTS_THROUGH_MEASUREMENT_EDGE",
+  "results": {
+    "jonkoping_extended_rrr": 0.9246635507195894,
+    "pitea_alvsbyn_extended_rrr": 0.8950346548218165
+  },
+  "files": {
+    "RESCUE_UPPSALA_2015_MEASUREMENT_EDGE_MCF_RAW_v0.1.csv": {
+      "sha256": "dba1135c58869a57c34139b5595d6f5049b0feb849d719392d117c04e102083d",
+      "bytes": 1414
+    },
+    "RESCUE_UPPSALA_2015_MEASUREMENT_EDGE_SCB_RAW_v0.1.csv": {
+      "sha256": "dc6e23d6b55b12b51d85c24a978547af365f00ecdc8e1154b5b2ee72b84dbf62",
+      "bytes": 468
+    },
+    "RESCUE_UPPSALA_2015_MEASUREMENT_EDGE_DATA_v0.1.csv": {
+      "sha256": "762e99675fa6f177c1dfa0fb77635d53d9bfa96bdfd059de1ab3ba3077f2397f",
+      "bytes": 1731
+    },
+    "RESCUE_UPPSALA_2015_MEASUREMENT_EDGE_QA_v0.1.csv": {
+      "sha256": "c5b0b6ede35e7d81720b58e434fafad16be460be2ac538c4b9404ca5a11c5a22",
+      "bytes": 389
+    },
+    "RESCUE_UPPSALA_2015_MEASUREMENT_EDGE_ESTIMATES_v0.1.csv": {
+      "sha256": "ac50e4bf58828bb17c760ae4c1e3db2d8013cbf387d41681033bbc1897851061",
+      "bytes": 1394
+    },
+    "Raddningstjanst-Uppsala-2015-Measurement-Edge-Sensitivity-Result-v0.1.md": {
+      "sha256": "267d5d770afcb4560e116ebcddcaf68c78958899e979a60e86954bea9736d13c",
+      "bytes": 2137
+    }
+  }
+}

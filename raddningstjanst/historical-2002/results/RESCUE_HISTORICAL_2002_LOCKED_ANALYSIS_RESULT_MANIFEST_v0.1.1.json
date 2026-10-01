@@ -1,0 +1,80 @@
+{
+  "version": "RESCUE_HISTORICAL_2002_LOCKED_ANALYSIS_RESULT_v0.1.1",
+  "parent_protocol": "Raddningstjanst-Historical-2002-Estimator-Analysis-Protocol-v0.1",
+  "data_availability_amendment": "Historical 2002 Cohort — Post-Unmask Data-Availability Amendment v0.1",
+  "execution": "AVAILABLE_OBSERVATION",
+  "primary_irr": 1.9530476848202696,
+  "complete_control_event_sensitivity_irr": 1.948358644820357,
+  "structural_reporting_absence": [
+    {
+      "municipality_code": "0125",
+      "year": 2003
+    },
+    {
+      "municipality_code": "0125",
+      "year": 2004
+    },
+    {
+      "municipality_code": "1260",
+      "year": 2004
+    }
+  ],
+  "complete_control_event_drop": [
+    "EV_RSNV_BJUV_2019",
+    "EV_SBFF_2007"
+  ],
+  "no_zero_imputation": true,
+  "missing_exposure_excluded": true,
+  "replacement_controls_introduced": false,
+  "flags": {
+    "data_availability": "DATA_AVAILABILITY_DIRECTION_ROBUST",
+    "prewindow": "PREWINDOW_DIRECTION_ROBUST",
+    "missingness_item_nonresponse": "MISSINGNESS_DIRECTION_ROBUST",
+    "loto": "TREATED_EVENT_DIRECTION_ROBUST",
+    "loco": "CONTROL_EVENT_DIRECTION_ROBUST"
+  },
+  "inputs": {
+    "RESCUE_HISTORICAL_2002_PRETREATMENT_PANEL_WITH_RATE_v0.1.csv": {
+      "sha256": "cfeaa8425921a34684010ceff219350da6a370b27e455dee84488a09122e5003",
+      "bytes": 21323
+    },
+    "RESCUE_HISTORICAL_2002_TREATMENT_COHORT_v0.1.csv": {
+      "sha256": "b29c29c5c89b8ffe93d702f856c4b51e263b10df6fb17f986550f6a87defd9e4",
+      "bytes": 2177
+    },
+    "RESCUE_HISTORICAL_2002_CONTROL_RISK_SET_v0.1.csv": {
+      "sha256": "c9197005565abef82a0eb0204a60a06a874f9a68724063effc00dc9415355103",
+      "bytes": 9419
+    },
+    "RESCUE_HISTORICAL_2002_PRIMARY_POST_UNMASK_REQUESTS_v0.1.csv": {
+      "sha256": "4fa09a640b52bdcda862bb9992a61345c4cd9c08f33365e5cdd190285138a065",
+      "bytes": 30672
+    },
+    "normalized-2003-2004.csv": {
+      "sha256": "bffd11a45e62e8b84035c769e194d024c2f457db68280f5b27cdcdd1cc567e8e",
+      "bytes": 18303
+    }
+  },
+  "runner": {
+    "filename": "run_historical_2002_locked_analysis_v0.1.1.py",
+    "sha256": "b9d91af29d6dc77dbc0523141745d81d9770b0b6bb4875c70a2993b3e04754e7"
+  },
+  "files": {
+    "RESCUE_HISTORICAL_2002_LOCKED_ESTIMATES_v0.1.1.csv": {
+      "sha256": "e9ba06167902b2e720cbab68fcaef6faf96202c92d1b414a1d2a6ee69a4aca54",
+      "bytes": 6525
+    },
+    "RESCUE_HISTORICAL_2002_EVENT_PERIOD_RESULTS_v0.1.1.csv": {
+      "sha256": "eed54ef8bc646aa5710c831b241e43e9049463f1327717a7b2b4528ee230d081",
+      "bytes": 3570
+    },
+    "RESCUE_HISTORICAL_2002_POST_QA_v0.1.1.csv": {
+      "sha256": "eab04f15d98cfcfc6b899ea27b069e76b7a93773c8776b6ad4fcdf41df85c59c",
+      "bytes": 2791
+    },
+    "Raddningstjanst-Historical-2002-Locked-Analysis-Result-v0.1.1.md": {
+      "sha256": "c2ad80e9a08b62089c774240f6138650a622ac8463f7f9c59ef097787aac3c2a",
+      "bytes": 1249
+    }
+  }
+}

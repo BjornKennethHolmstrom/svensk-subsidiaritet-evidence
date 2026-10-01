@@ -1,0 +1,22 @@
+item,locked_value,rationale
+causal_unit,institutional event / system,Municipalities within the same integration event are not independent replications.
+treated_support,5 exact 2002 events / 9 municipalities,Exact treatment-history lock.
+control_support,20 future-treatment events / 33 municipalities,First full A >=2006; no 2004 t-1 contamination.
+clean_pre,"1998,1999,2000",Pre-treatment and same Insatsrapport-96 regime.
+excluded_transition,"2001,2002",2001 t-1 anticipation/buffer; 2002 treatment/implementation year.
+strict_post,"2003,2004",Two post years before 2005 reporting-form revision.
+primary_estimand,exp(beta) from event-year Poisson DiD,Multiplicative relative change in primary incidence rate for treated systems vs controls.
+primary_model,log(mu_et)=alpha_e+gamma_t+beta*(T_e*Post_t)+log(exposure_et),Event FE + calendar-year FE + population offset.
+model_years,"1998,1999,2000,2003,2004 only",2001-2002 never enter primary causal model.
+exposure,sum municipal mean population within event-year,Mean population = (P[t-1]+P[t])/2 from SCB TAB638/BE0101N1.
+primary_direction,IRR < 1 = treated-favorable; IRR > 1 = treated-adverse,Lower rate of spread beyond start object.
+significance_rule,NO binary p<0.05 success/failure rule,Only five treated events and observational treatment assignment.
+primary_interval,Pearson-dispersion-scaled Poisson 95% model interval,Count-process/model uncertainty; explicitly not a full causal-confidence interval.
+secondary_interval,event-cluster sandwich 95% interval,Robustness only; few treated clusters limit asymptotic reliability.
+event_robustness,leave-one-treated-event-out (5 fits),Tests whether one treated institutional event drives the result.
+control_robustness,leave-one-control-event-out range (20 fits),Tests dependence on one future-treatment control system.
+pretrend_handling,No trend-adjusted primary model,Only three clean pre years; extrapolated event trends would be unstable.
+prewindow_sensitivities,endpoints-only pre=1998+2000; latest-clean-pre=2000,Makes 1999 dip/prewindow dependence visible without post-informed tuning.
+missingness,adversarial model bounds,Ej angiven is item nonresponse; Växjö 1998 makes sensitivity material.
+legal_form,COMMON_BOARD vs KOMMUNALFORBUND descriptive heterogeneity only,Only 2 vs 3 treated events; no confirmatory subgroup inference.
+outcome_firewall,2003-2004 CLOSED until protocol hash freeze,No post-treatment outcome may alter estimator or interpretation rules.

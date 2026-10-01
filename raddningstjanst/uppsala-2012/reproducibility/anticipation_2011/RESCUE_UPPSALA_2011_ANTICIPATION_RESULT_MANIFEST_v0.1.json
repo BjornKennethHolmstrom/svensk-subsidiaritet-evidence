@@ -1,0 +1,49 @@
+{
+  "version": "RESCUE_UPPSALA_2011_ANTICIPATION_RESULT_MANIFEST_v0.1",
+  "new_outcomes": {
+    "year": 2011,
+    "municipalities": {
+      "0380": "Uppsala",
+      "0680": "Jönköping",
+      "2581": "Piteå",
+      "2560": "Älvsbyn"
+    },
+    "rows": 4
+  },
+  "causal_status": "DESCRIPTIVE_ANTICIPATION_DIAGNOSTIC_ONLY",
+  "classification": "BOTH_CORE_DONORS_SHOW_PRE_A_FAVORABLE_DIVERGENCE_COMPATIBLE_WITH_ANTICIPATION",
+  "locked_primary_estimates_changed": false,
+  "still_closed": [
+    "2015 measurement-edge sensitivity"
+  ],
+  "diagnostics": {
+    "jonkoping_index": 0.6650767849215745,
+    "pitea_alvsbyn_index": 0.8008988731581119
+  },
+  "files": {
+    "RESCUE_UPPSALA_2011_ANTICIPATION_MCF_RAW_v0.1.csv": {
+      "sha256": "14920ce1314cda754866bcc12cbb60fbbd2d6f7a3f6aea5edabd0026da2adb04",
+      "bytes": 1417
+    },
+    "RESCUE_UPPSALA_2011_ANTICIPATION_SCB_RAW_v0.1.csv": {
+      "sha256": "c233ca90903f27320adea8b339742b8b60c71db48798b875509c302f84b08230",
+      "bytes": 468
+    },
+    "RESCUE_UPPSALA_2011_ANTICIPATION_DATA_v0.1.csv": {
+      "sha256": "ec9ffab1d46a34faedf925cd0cc7df9a181d01f568018e92bad7bdf060a98b6a",
+      "bytes": 1202
+    },
+    "RESCUE_UPPSALA_2011_ANTICIPATION_QA_v0.1.csv": {
+      "sha256": "af40e4d7addc23036539763f8e69b8bd5826de31234432817c883b7c5c5a73f6",
+      "bytes": 390
+    },
+    "RESCUE_UPPSALA_2011_ANTICIPATION_DIAGNOSTICS_v0.1.csv": {
+      "sha256": "95d531374ae7afc52fc7a2305bd3792ff6329eecee80b8a101761a75332d564e",
+      "bytes": 929
+    },
+    "Raddningstjanst-Uppsala-2011-Anticipation-Diagnostics-Result-v0.1.md": {
+      "sha256": "44a2a7b1611644114c3c0eca04891d35b165b7c8b398687bfedfd3dac597ed00",
+      "bytes": 1992
+    }
+  }
+}

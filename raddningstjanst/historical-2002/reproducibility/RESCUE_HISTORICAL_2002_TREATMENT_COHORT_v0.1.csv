@@ -1,0 +1,10 @@
+municipality_code,municipality_name,treatment_year,event_id,event_cluster_size,organization,legal_form,certainty,pre_status_basis,source_id,exists_1998_2004,replication_role
+1498,Tidaholm,2002,EV_FALKOPING_TIDAHOLM_2002,2,Gemensam räddningsnämnd Falköping-Tidaholm,COMMON_BOARD,EXACT_YEAR,Institutional event source + no earlier strict FULL_A snapshot conflict,SRC_RV_2003,YES,TREATED_2002_EXACT_A_EVENT
+1499,Falköping,2002,EV_FALKOPING_TIDAHOLM_2002,2,Gemensam räddningsnämnd Falköping-Tidaholm,COMMON_BOARD,EXACT_YEAR,Institutional event source + no earlier strict FULL_A snapshot conflict,SRC_RV_2003,YES,TREATED_2002_EXACT_A_EVENT
+0682,Nässjö,2002,EV_HOGLAND_2002,2,Höglandets Räddningstjänstförbund,KOMMUNALFORBUND,EXACT_YEAR,Institutional event source + no earlier strict FULL_A snapshot conflict,SRC_HOGLANDET_HIST,YES,TREATED_2002_EXACT_A_EVENT
+0685,Vetlanda,2002,EV_HOGLAND_2002,2,Höglandets Räddningstjänstförbund,KOMMUNALFORBUND,EXACT_YEAR,Institutional event source + no earlier strict FULL_A snapshot conflict,SRC_HOGLANDET_HIST,YES,TREATED_2002_EXACT_A_EVENT
+1882,Askersund,2002,EV_NERIKES_ASK_2002,1,Nerikes Brandkår,KOMMUNALFORBUND,EXACT_YEAR,Institutional event source + no earlier strict FULL_A snapshot conflict,SRC_NERIKES_HIST,YES,TREATED_2002_EXACT_A_EVENT
+1471,Götene,2002,EV_SKARA_GOTENE_2002,2,Gemensam räddningsnämnd Skara-Götene,COMMON_BOARD,EXACT_YEAR,Institutional event source + no earlier strict FULL_A snapshot conflict,SRC_RV_2003,YES,TREATED_2002_EXACT_A_EVENT
+1495,Skara,2002,EV_SKARA_GOTENE_2002,2,Gemensam räddningsnämnd Skara-Götene,COMMON_BOARD,EXACT_YEAR,Institutional event source + no earlier strict FULL_A snapshot conflict,SRC_RV_2003,YES,TREATED_2002_EXACT_A_EVENT
+0764,Alvesta,2002,EV_VAREND_2002,2,Värends Räddningstjänstförbund,KOMMUNALFORBUND,EXACT_YEAR,Institutional event source + no earlier strict FULL_A snapshot conflict,SRC_VAREND_HIST,YES,TREATED_2002_EXACT_A_EVENT
+0780,Växjö,2002,EV_VAREND_2002,2,Värends Räddningstjänstförbund,KOMMUNALFORBUND,EXACT_YEAR,Institutional event source + no earlier strict FULL_A snapshot conflict,SRC_VAREND_HIST,YES,TREATED_2002_EXACT_A_EVENT

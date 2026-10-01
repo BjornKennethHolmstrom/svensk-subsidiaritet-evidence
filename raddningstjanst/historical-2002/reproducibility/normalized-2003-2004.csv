@@ -1,0 +1,589 @@
+municipality_code,year,extent_category,count
+0125,2003,Ej angiven,
+0125,2003,Endast rökutveckling,
+0125,2003,I startföremålet,
+0125,2003,I startutrymmet,
+0125,2003,I flera rum,
+0125,2003,I flera brandceller,
+0125,2003,Branden släckt/slocknad,
+0125,2004,Ej angiven,
+0125,2004,Endast rökutveckling,
+0125,2004,I startföremålet,
+0125,2004,I startutrymmet,
+0125,2004,I flera rum,
+0125,2004,I flera brandceller,
+0125,2004,Branden släckt/slocknad,
+0180,2003,Ej angiven,0
+0180,2003,Endast rökutveckling,170
+0180,2003,I startföremålet,245
+0180,2003,I startutrymmet,87
+0180,2003,I flera rum,27
+0180,2003,I flera brandceller,11
+0180,2003,Branden släckt/slocknad,81
+0180,2004,Ej angiven,0
+0180,2004,Endast rökutveckling,179
+0180,2004,I startföremålet,215
+0180,2004,I startutrymmet,93
+0180,2004,I flera rum,30
+0180,2004,I flera brandceller,6
+0180,2004,Branden släckt/slocknad,82
+0182,2003,Ej angiven,0
+0182,2003,Endast rökutveckling,10
+0182,2003,I startföremålet,13
+0182,2003,I startutrymmet,5
+0182,2003,I flera rum,4
+0182,2003,I flera brandceller,0
+0182,2003,Branden släckt/slocknad,1
+0182,2004,Ej angiven,0
+0182,2004,Endast rökutveckling,8
+0182,2004,I startföremålet,21
+0182,2004,I startutrymmet,9
+0182,2004,I flera rum,1
+0182,2004,I flera brandceller,0
+0182,2004,Branden släckt/slocknad,16
+0186,2003,Ej angiven,0
+0186,2003,Endast rökutveckling,5
+0186,2003,I startföremålet,13
+0186,2003,I startutrymmet,3
+0186,2003,I flera rum,3
+0186,2003,I flera brandceller,1
+0186,2003,Branden släckt/slocknad,2
+0186,2004,Ej angiven,0
+0186,2004,Endast rökutveckling,5
+0186,2004,I startföremålet,5
+0186,2004,I startutrymmet,2
+0186,2004,I flera rum,1
+0186,2004,I flera brandceller,1
+0186,2004,Branden släckt/slocknad,1
+0191,2003,Ej angiven,0
+0191,2003,Endast rökutveckling,18
+0191,2003,I startföremålet,12
+0191,2003,I startutrymmet,6
+0191,2003,I flera rum,8
+0191,2003,I flera brandceller,0
+0191,2003,Branden släckt/slocknad,14
+0191,2004,Ej angiven,0
+0191,2004,Endast rökutveckling,11
+0191,2004,I startföremålet,16
+0191,2004,I startutrymmet,4
+0191,2004,I flera rum,4
+0191,2004,I flera brandceller,0
+0191,2004,Branden släckt/slocknad,5
+0380,2003,Ej angiven,0
+0380,2003,Endast rökutveckling,60
+0380,2003,I startföremålet,71
+0380,2003,I startutrymmet,21
+0380,2003,I flera rum,19
+0380,2003,I flera brandceller,2
+0380,2003,Branden släckt/slocknad,27
+0380,2004,Ej angiven,0
+0380,2004,Endast rökutveckling,51
+0380,2004,I startföremålet,68
+0380,2004,I startutrymmet,11
+0380,2004,I flera rum,9
+0380,2004,I flera brandceller,2
+0380,2004,Branden släckt/slocknad,28
+0580,2003,Ej angiven,0
+0580,2003,Endast rökutveckling,33
+0580,2003,I startföremålet,55
+0580,2003,I startutrymmet,18
+0580,2003,I flera rum,7
+0580,2003,I flera brandceller,2
+0580,2003,Branden släckt/slocknad,21
+0580,2004,Ej angiven,0
+0580,2004,Endast rökutveckling,30
+0580,2004,I startföremålet,32
+0580,2004,I startutrymmet,10
+0580,2004,I flera rum,12
+0580,2004,I flera brandceller,1
+0580,2004,Branden släckt/slocknad,17
+0581,2003,Ej angiven,1
+0581,2003,Endast rökutveckling,58
+0581,2003,I startföremålet,46
+0581,2003,I startutrymmet,15
+0581,2003,I flera rum,10
+0581,2003,I flera brandceller,3
+0581,2003,Branden släckt/slocknad,48
+0581,2004,Ej angiven,0
+0581,2004,Endast rökutveckling,65
+0581,2004,I startföremålet,50
+0581,2004,I startutrymmet,13
+0581,2004,I flera rum,12
+0581,2004,I flera brandceller,2
+0581,2004,Branden släckt/slocknad,56
+0682,2003,Ej angiven,0
+0682,2003,Endast rökutveckling,12
+0682,2003,I startföremålet,9
+0682,2003,I startutrymmet,4
+0682,2003,I flera rum,6
+0682,2003,I flera brandceller,0
+0682,2003,Branden släckt/slocknad,3
+0682,2004,Ej angiven,0
+0682,2004,Endast rökutveckling,9
+0682,2004,I startföremålet,6
+0682,2004,I startutrymmet,2
+0682,2004,I flera rum,5
+0682,2004,I flera brandceller,0
+0682,2004,Branden släckt/slocknad,4
+0685,2003,Ej angiven,0
+0685,2003,Endast rökutveckling,15
+0685,2003,I startföremålet,12
+0685,2003,I startutrymmet,5
+0685,2003,I flera rum,8
+0685,2003,I flera brandceller,1
+0685,2003,Branden släckt/slocknad,11
+0685,2004,Ej angiven,0
+0685,2004,Endast rökutveckling,9
+0685,2004,I startföremålet,8
+0685,2004,I startutrymmet,3
+0685,2004,I flera rum,4
+0685,2004,I flera brandceller,0
+0685,2004,Branden släckt/slocknad,5
+0764,2003,Ej angiven,0
+0764,2003,Endast rökutveckling,5
+0764,2003,I startföremålet,12
+0764,2003,I startutrymmet,2
+0764,2003,I flera rum,1
+0764,2003,I flera brandceller,0
+0764,2003,Branden släckt/slocknad,14
+0764,2004,Ej angiven,0
+0764,2004,Endast rökutveckling,6
+0764,2004,I startföremålet,8
+0764,2004,I startutrymmet,3
+0764,2004,I flera rum,2
+0764,2004,I flera brandceller,0
+0764,2004,Branden släckt/slocknad,6
+0780,2003,Ej angiven,0
+0780,2003,Endast rökutveckling,19
+0780,2003,I startföremålet,30
+0780,2003,I startutrymmet,13
+0780,2003,I flera rum,8
+0780,2003,I flera brandceller,4
+0780,2003,Branden släckt/slocknad,19
+0780,2004,Ej angiven,0
+0780,2004,Endast rökutveckling,19
+0780,2004,I startföremålet,13
+0780,2004,I startutrymmet,9
+0780,2004,I flera rum,10
+0780,2004,I flera brandceller,0
+0780,2004,Branden släckt/slocknad,19
+0834,2003,Ej angiven,0
+0834,2003,Endast rökutveckling,4
+0834,2003,I startföremålet,4
+0834,2003,I startutrymmet,2
+0834,2003,I flera rum,3
+0834,2003,I flera brandceller,0
+0834,2003,Branden släckt/slocknad,3
+0834,2004,Ej angiven,0
+0834,2004,Endast rökutveckling,2
+0834,2004,I startföremålet,2
+0834,2004,I startutrymmet,0
+0834,2004,I flera rum,2
+0834,2004,I flera brandceller,0
+0834,2004,Branden släckt/slocknad,1
+0862,2003,Ej angiven,0
+0862,2003,Endast rökutveckling,8
+0862,2003,I startföremålet,10
+0862,2003,I startutrymmet,0
+0862,2003,I flera rum,3
+0862,2003,I flera brandceller,0
+0862,2003,Branden släckt/slocknad,4
+0862,2004,Ej angiven,0
+0862,2004,Endast rökutveckling,2
+0862,2004,I startföremålet,7
+0862,2004,I startutrymmet,1
+0862,2004,I flera rum,3
+0862,2004,I flera brandceller,1
+0862,2004,Branden släckt/slocknad,4
+1231,2003,Ej angiven,0
+1231,2003,Endast rökutveckling,7
+1231,2003,I startföremålet,6
+1231,2003,I startutrymmet,2
+1231,2003,I flera rum,3
+1231,2003,I flera brandceller,1
+1231,2003,Branden släckt/slocknad,3
+1231,2004,Ej angiven,0
+1231,2004,Endast rökutveckling,5
+1231,2004,I startföremålet,5
+1231,2004,I startutrymmet,5
+1231,2004,I flera rum,0
+1231,2004,I flera brandceller,0
+1231,2004,Branden släckt/slocknad,1
+1257,2003,Ej angiven,0
+1257,2003,Endast rökutveckling,2
+1257,2003,I startföremålet,6
+1257,2003,I startutrymmet,2
+1257,2003,I flera rum,0
+1257,2003,I flera brandceller,1
+1257,2003,Branden släckt/slocknad,3
+1257,2004,Ej angiven,0
+1257,2004,Endast rökutveckling,3
+1257,2004,I startföremålet,9
+1257,2004,I startutrymmet,0
+1257,2004,I flera rum,0
+1257,2004,I flera brandceller,1
+1257,2004,Branden släckt/slocknad,2
+1260,2003,Ej angiven,2
+1260,2003,Endast rökutveckling,0
+1260,2003,I startföremålet,3
+1260,2003,I startutrymmet,0
+1260,2003,I flera rum,2
+1260,2003,I flera brandceller,0
+1260,2003,Branden släckt/slocknad,3
+1260,2004,Ej angiven,
+1260,2004,Endast rökutveckling,
+1260,2004,I startföremålet,
+1260,2004,I startutrymmet,
+1260,2004,I flera rum,
+1260,2004,I flera brandceller,
+1260,2004,Branden släckt/slocknad,
+1261,2003,Ej angiven,0
+1261,2003,Endast rökutveckling,5
+1261,2003,I startföremålet,12
+1261,2003,I startutrymmet,1
+1261,2003,I flera rum,2
+1261,2003,I flera brandceller,1
+1261,2003,Branden släckt/slocknad,1
+1261,2004,Ej angiven,0
+1261,2004,Endast rökutveckling,11
+1261,2004,I startföremålet,8
+1261,2004,I startutrymmet,4
+1261,2004,I flera rum,1
+1261,2004,I flera brandceller,1
+1261,2004,Branden släckt/slocknad,1
+1280,2003,Ej angiven,0
+1280,2003,Endast rökutveckling,114
+1280,2003,I startföremålet,148
+1280,2003,I startutrymmet,47
+1280,2003,I flera rum,11
+1280,2003,I flera brandceller,9
+1280,2003,Branden släckt/slocknad,44
+1280,2004,Ej angiven,1
+1280,2004,Endast rökutveckling,96
+1280,2004,I startföremålet,101
+1280,2004,I startutrymmet,40
+1280,2004,I flera rum,6
+1280,2004,I flera brandceller,1
+1280,2004,Branden släckt/slocknad,48
+1281,2003,Ej angiven,0
+1281,2003,Endast rökutveckling,23
+1281,2003,I startföremålet,24
+1281,2003,I startutrymmet,16
+1281,2003,I flera rum,2
+1281,2003,I flera brandceller,0
+1281,2003,Branden släckt/slocknad,21
+1281,2004,Ej angiven,0
+1281,2004,Endast rökutveckling,17
+1281,2004,I startföremålet,20
+1281,2004,I startutrymmet,10
+1281,2004,I flera rum,2
+1281,2004,I flera brandceller,0
+1281,2004,Branden släckt/slocknad,21
+1283,2003,Ej angiven,0
+1283,2003,Endast rökutveckling,54
+1283,2003,I startföremålet,45
+1283,2003,I startutrymmet,12
+1283,2003,I flera rum,7
+1283,2003,I flera brandceller,0
+1283,2003,Branden släckt/slocknad,34
+1283,2004,Ej angiven,0
+1283,2004,Endast rökutveckling,65
+1283,2004,I startföremålet,41
+1283,2004,I startutrymmet,12
+1283,2004,I flera rum,6
+1283,2004,I flera brandceller,1
+1283,2004,Branden släckt/slocknad,36
+1292,2003,Ej angiven,0
+1292,2003,Endast rökutveckling,14
+1292,2003,I startföremålet,18
+1292,2003,I startutrymmet,7
+1292,2003,I flera rum,4
+1292,2003,I flera brandceller,0
+1292,2003,Branden släckt/slocknad,5
+1292,2004,Ej angiven,0
+1292,2004,Endast rökutveckling,11
+1292,2004,I startföremålet,15
+1292,2004,I startutrymmet,2
+1292,2004,I flera rum,0
+1292,2004,I flera brandceller,2
+1292,2004,Branden släckt/slocknad,8
+1382,2003,Ej angiven,0
+1382,2003,Endast rökutveckling,17
+1382,2003,I startföremålet,25
+1382,2003,I startutrymmet,3
+1382,2003,I flera rum,10
+1382,2003,I flera brandceller,2
+1382,2003,Branden släckt/slocknad,12
+1382,2004,Ej angiven,0
+1382,2004,Endast rökutveckling,20
+1382,2004,I startföremålet,13
+1382,2004,I startutrymmet,7
+1382,2004,I flera rum,1
+1382,2004,I flera brandceller,0
+1382,2004,Branden släckt/slocknad,3
+1383,2003,Ej angiven,0
+1383,2003,Endast rökutveckling,14
+1383,2003,I startföremålet,26
+1383,2003,I startutrymmet,6
+1383,2003,I flera rum,7
+1383,2003,I flera brandceller,0
+1383,2003,Branden släckt/slocknad,10
+1383,2004,Ej angiven,0
+1383,2004,Endast rökutveckling,19
+1383,2004,I startföremålet,14
+1383,2004,I startutrymmet,2
+1383,2004,I flera rum,5
+1383,2004,I flera brandceller,1
+1383,2004,Branden släckt/slocknad,13
+1440,2003,Ej angiven,0
+1440,2003,Endast rökutveckling,2
+1440,2003,I startföremålet,6
+1440,2003,I startutrymmet,1
+1440,2003,I flera rum,2
+1440,2003,I flera brandceller,0
+1440,2003,Branden släckt/slocknad,2
+1440,2004,Ej angiven,0
+1440,2004,Endast rökutveckling,6
+1440,2004,I startföremålet,8
+1440,2004,I startutrymmet,7
+1440,2004,I flera rum,3
+1440,2004,I flera brandceller,0
+1440,2004,Branden släckt/slocknad,7
+1441,2003,Ej angiven,0
+1441,2003,Endast rökutveckling,5
+1441,2003,I startföremålet,9
+1441,2003,I startutrymmet,1
+1441,2003,I flera rum,3
+1441,2003,I flera brandceller,3
+1441,2003,Branden släckt/slocknad,5
+1441,2004,Ej angiven,0
+1441,2004,Endast rökutveckling,5
+1441,2004,I startföremålet,8
+1441,2004,I startutrymmet,5
+1441,2004,I flera rum,1
+1441,2004,I flera brandceller,0
+1441,2004,Branden släckt/slocknad,3
+1442,2003,Ej angiven,0
+1442,2003,Endast rökutveckling,5
+1442,2003,I startföremålet,11
+1442,2003,I startutrymmet,5
+1442,2003,I flera rum,2
+1442,2003,I flera brandceller,2
+1442,2003,Branden släckt/slocknad,2
+1442,2004,Ej angiven,0
+1442,2004,Endast rökutveckling,2
+1442,2004,I startföremålet,9
+1442,2004,I startutrymmet,2
+1442,2004,I flera rum,3
+1442,2004,I flera brandceller,0
+1442,2004,Branden släckt/slocknad,1
+1471,2003,Ej angiven,0
+1471,2003,Endast rökutveckling,6
+1471,2003,I startföremålet,6
+1471,2003,I startutrymmet,2
+1471,2003,I flera rum,2
+1471,2003,I flera brandceller,0
+1471,2003,Branden släckt/slocknad,2
+1471,2004,Ej angiven,0
+1471,2004,Endast rökutveckling,5
+1471,2004,I startföremålet,3
+1471,2004,I startutrymmet,2
+1471,2004,I flera rum,1
+1471,2004,I flera brandceller,0
+1471,2004,Branden släckt/slocknad,3
+1482,2003,Ej angiven,0
+1482,2003,Endast rökutveckling,6
+1482,2003,I startföremålet,11
+1482,2003,I startutrymmet,3
+1482,2003,I flera rum,1
+1482,2003,I flera brandceller,0
+1482,2003,Branden släckt/slocknad,7
+1482,2004,Ej angiven,0
+1482,2004,Endast rökutveckling,3
+1482,2004,I startföremålet,7
+1482,2004,I startutrymmet,1
+1482,2004,I flera rum,1
+1482,2004,I flera brandceller,0
+1482,2004,Branden släckt/slocknad,2
+1489,2003,Ej angiven,0
+1489,2003,Endast rökutveckling,9
+1489,2003,I startföremålet,14
+1489,2003,I startutrymmet,6
+1489,2003,I flera rum,3
+1489,2003,I flera brandceller,1
+1489,2003,Branden släckt/slocknad,3
+1489,2004,Ej angiven,0
+1489,2004,Endast rökutveckling,4
+1489,2004,I startföremålet,10
+1489,2004,I startutrymmet,2
+1489,2004,I flera rum,3
+1489,2004,I flera brandceller,0
+1489,2004,Branden släckt/slocknad,4
+1495,2003,Ej angiven,0
+1495,2003,Endast rökutveckling,7
+1495,2003,I startföremålet,1
+1495,2003,I startutrymmet,2
+1495,2003,I flera rum,1
+1495,2003,I flera brandceller,0
+1495,2003,Branden släckt/slocknad,4
+1495,2004,Ej angiven,0
+1495,2004,Endast rökutveckling,3
+1495,2004,I startföremålet,5
+1495,2004,I startutrymmet,2
+1495,2004,I flera rum,1
+1495,2004,I flera brandceller,1
+1495,2004,Branden släckt/slocknad,2
+1498,2003,Ej angiven,0
+1498,2003,Endast rökutveckling,0
+1498,2003,I startföremålet,10
+1498,2003,I startutrymmet,6
+1498,2003,I flera rum,3
+1498,2003,I flera brandceller,0
+1498,2003,Branden släckt/slocknad,1
+1498,2004,Ej angiven,0
+1498,2004,Endast rökutveckling,4
+1498,2004,I startföremålet,11
+1498,2004,I startutrymmet,0
+1498,2004,I flera rum,4
+1498,2004,I flera brandceller,0
+1498,2004,Branden släckt/slocknad,3
+1499,2003,Ej angiven,0
+1499,2003,Endast rökutveckling,12
+1499,2003,I startföremålet,19
+1499,2003,I startutrymmet,5
+1499,2003,I flera rum,2
+1499,2003,I flera brandceller,0
+1499,2003,Branden släckt/slocknad,6
+1499,2004,Ej angiven,0
+1499,2004,Endast rökutveckling,6
+1499,2004,I startföremålet,14
+1499,2004,I startutrymmet,1
+1499,2004,I flera rum,3
+1499,2004,I flera brandceller,0
+1499,2004,Branden släckt/slocknad,4
+1864,2003,Ej angiven,0
+1864,2003,Endast rökutveckling,2
+1864,2003,I startföremålet,8
+1864,2003,I startutrymmet,0
+1864,2003,I flera rum,1
+1864,2003,I flera brandceller,3
+1864,2003,Branden släckt/slocknad,2
+1864,2004,Ej angiven,0
+1864,2004,Endast rökutveckling,1
+1864,2004,I startföremålet,4
+1864,2004,I startutrymmet,1
+1864,2004,I flera rum,0
+1864,2004,I flera brandceller,0
+1864,2004,Branden släckt/slocknad,0
+1882,2003,Ej angiven,0
+1882,2003,Endast rökutveckling,2
+1882,2003,I startföremålet,5
+1882,2003,I startutrymmet,5
+1882,2003,I flera rum,2
+1882,2003,I flera brandceller,3
+1882,2003,Branden släckt/slocknad,0
+1882,2004,Ej angiven,0
+1882,2004,Endast rökutveckling,2
+1882,2004,I startföremålet,0
+1882,2004,I startutrymmet,3
+1882,2004,I flera rum,1
+1882,2004,I flera brandceller,0
+1882,2004,Branden släckt/slocknad,0
+1884,2003,Ej angiven,0
+1884,2003,Endast rökutveckling,3
+1884,2003,I startföremålet,2
+1884,2003,I startutrymmet,1
+1884,2003,I flera rum,1
+1884,2003,I flera brandceller,0
+1884,2003,Branden släckt/slocknad,1
+1884,2004,Ej angiven,0
+1884,2004,Endast rökutveckling,1
+1884,2004,I startföremålet,4
+1884,2004,I startutrymmet,1
+1884,2004,I flera rum,0
+1884,2004,I flera brandceller,0
+1884,2004,Branden släckt/slocknad,3
+1885,2003,Ej angiven,0
+1885,2003,Endast rökutveckling,11
+1885,2003,I startföremålet,14
+1885,2003,I startutrymmet,4
+1885,2003,I flera rum,2
+1885,2003,I flera brandceller,0
+1885,2003,Branden släckt/slocknad,13
+1885,2004,Ej angiven,0
+1885,2004,Endast rökutveckling,7
+1885,2004,I startföremålet,13
+1885,2004,I startutrymmet,1
+1885,2004,I flera rum,2
+1885,2004,I flera brandceller,2
+1885,2004,Branden släckt/slocknad,18
+1982,2003,Ej angiven,0
+1982,2003,Endast rökutveckling,3
+1982,2003,I startföremålet,9
+1982,2003,I startutrymmet,1
+1982,2003,I flera rum,2
+1982,2003,I flera brandceller,1
+1982,2003,Branden släckt/slocknad,2
+1982,2004,Ej angiven,0
+1982,2004,Endast rökutveckling,1
+1982,2004,I startföremålet,7
+1982,2004,I startutrymmet,2
+1982,2004,I flera rum,2
+1982,2004,I flera brandceller,0
+1982,2004,Branden släckt/slocknad,1
+2326,2003,Ej angiven,0
+2326,2003,Endast rökutveckling,3
+2326,2003,I startföremålet,9
+2326,2003,I startutrymmet,0
+2326,2003,I flera rum,1
+2326,2003,I flera brandceller,1
+2326,2003,Branden släckt/slocknad,4
+2326,2004,Ej angiven,0
+2326,2004,Endast rökutveckling,2
+2326,2004,I startföremålet,2
+2326,2004,I startutrymmet,2
+2326,2004,I flera rum,1
+2326,2004,I flera brandceller,0
+2326,2004,Branden släckt/slocknad,3
+2361,2003,Ej angiven,0
+2361,2003,Endast rökutveckling,12
+2361,2003,I startföremålet,4
+2361,2003,I startutrymmet,1
+2361,2003,I flera rum,2
+2361,2003,I flera brandceller,0
+2361,2003,Branden släckt/slocknad,0
+2361,2004,Ej angiven,0
+2361,2004,Endast rökutveckling,4
+2361,2004,I startföremålet,2
+2361,2004,I startutrymmet,1
+2361,2004,I flera rum,0
+2361,2004,I flera brandceller,0
+2361,2004,Branden släckt/slocknad,5
+2560,2003,Ej angiven,0
+2560,2003,Endast rökutveckling,1
+2560,2003,I startföremålet,2
+2560,2003,I startutrymmet,0
+2560,2003,I flera rum,0
+2560,2003,I flera brandceller,2
+2560,2003,Branden släckt/slocknad,7
+2560,2004,Ej angiven,0
+2560,2004,Endast rökutveckling,6
+2560,2004,I startföremålet,4
+2560,2004,I startutrymmet,0
+2560,2004,I flera rum,1
+2560,2004,I flera brandceller,1
+2560,2004,Branden släckt/slocknad,1
+2581,2003,Ej angiven,0
+2581,2003,Endast rökutveckling,13
+2581,2003,I startföremålet,22
+2581,2003,I startutrymmet,6
+2581,2003,I flera rum,6
+2581,2003,I flera brandceller,0
+2581,2003,Branden släckt/slocknad,12
+2581,2004,Ej angiven,0
+2581,2004,Endast rökutveckling,15
+2581,2004,I startföremålet,16
+2581,2004,I startutrymmet,4
+2581,2004,I flera rum,4
+2581,2004,I flera brandceller,3
+2581,2004,Branden släckt/slocknad,9

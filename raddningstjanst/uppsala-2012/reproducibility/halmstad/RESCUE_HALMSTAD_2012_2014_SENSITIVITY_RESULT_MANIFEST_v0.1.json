@@ -1,0 +1,57 @@
+{
+  "version": "RESCUE_HALMSTAD_2012_2014_SENSITIVITY_RESULT_MANIFEST_v0.1",
+  "new_post_outcomes_opened": {
+    "municipality": "Halmstad",
+    "code": "1380",
+    "years": [
+      2012,
+      2013,
+      2014
+    ],
+    "rows": 3
+  },
+  "primary_result_changed": false,
+  "primary_post_sha256_before_after": "feb62ce3e1ca5dd6ac258a3af0ad907b3f8feb7d8b6ce42eceff45b50ab550e8",
+  "primary_estimates_sha256_before_after": "20ed7b65cedd93adcf30da191423908834283392681cbb3737b137c643812c49",
+  "still_closed": [
+    "Skåne Nordväst 2012–2014",
+    "2011 anticipation",
+    "2015 edge"
+  ],
+  "result_summary": {
+    "rrr": 1.1054010555398022,
+    "same_direction_as_primary": false,
+    "all_three_same_direction": false,
+    "classification": "HALMSTAD_DIVERGES_FROM_PRIMARY"
+  },
+  "files": {
+    "RESCUE_HALMSTAD_PREMATCH_THRESHOLD_RAW_v0.1.csv": {
+      "sha256": "10a782c555dd7017b30d8329c04c20a3fd42683f09aa9f6c0a0505f2f3a8c29b",
+      "bytes": 432
+    },
+    "RESCUE_HALMSTAD_2012_2014_POST_MCF_RAW_v0.1.csv": {
+      "sha256": "78c5778174c1c2e1fbed102346eaf97fa2cb1c2c0089ab5488156f04875f75ed",
+      "bytes": 432
+    },
+    "RESCUE_HALMSTAD_2012_2014_POST_SCB_RAW_v0.1.csv": {
+      "sha256": "e3b4dde90e78f663a88bd3a14a653668a3e3432bf1c7708f77df028b1a398cec",
+      "bytes": 266
+    },
+    "RESCUE_HALMSTAD_2012_2014_SENSITIVITY_POST_DATA_v0.1.csv": {
+      "sha256": "49a25f60c2205c1306e657312993529081b244204c41717bcad13362db846e5d",
+      "bytes": 1655
+    },
+    "RESCUE_HALMSTAD_2012_2014_SENSITIVITY_QA_v0.1.csv": {
+      "sha256": "e81f6a8aa67b77a4dcd1c7fff731845e7d5615ceba85e41dae0f63fd4bee1007",
+      "bytes": 407
+    },
+    "RESCUE_HALMSTAD_2012_2014_SENSITIVITY_ESTIMATE_v0.1.csv": {
+      "sha256": "c5b78dbe1f21626e6664ba1f554b1aa489d83f6fd7d011bbb8a33c81ff55a4aa",
+      "bytes": 892
+    },
+    "Raddningstjanst-Halmstad-2012-2014-Sensitivity-Result-v0.1.md": {
+      "sha256": "f343c74ccad078bf4c2204b37258057d19e2ae0488e325d5da27d2842d45f933",
+      "bytes": 1686
+    }
+  }
+}

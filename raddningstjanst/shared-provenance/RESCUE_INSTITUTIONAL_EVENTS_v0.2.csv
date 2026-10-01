@@ -1,0 +1,66 @@
+﻿event_id,year,end_year,event_type,scope_layer,legal_form,organization,members,member_count,certainty,first_treatment_rule,source_id,notes
+EV_RSG_1993,1993,,FORMATION,A,KOMMUNALFORBUND,Räddningstjänsten Storgöteborg,Göteborg; Mölndal,2,EXACT_YEAR,PRE_PANEL,SRC_RSG_HIST2,
+EV_SBFF_1993,1993,,FORMATION,A,KOMMUNALFORBUND,Södertörns brandförsvarsförbund,Haninge; Huddinge; Nynäshamn; Tyresö,4,EXACT_YEAR,PRE_PANEL,SRC_SBFF_HIST,
+EV_GASTRIKE_1994,1994,,FORMATION,A,KOMMUNALFORBUND,Gästrike Räddningstjänst,Gävle; Ockelbo; Sandviken,3,EXACT_YEAR,PRE_PANEL,SRC_GASTRIKE_HIST,
+EV_GASTRIKE_HOF_1996,1996,,JOIN,A,KOMMUNALFORBUND,Gästrike Räddningstjänst,Hofors,1,EXACT_YEAR,PRE_PANEL,SRC_GASTRIKE_HIST,
+EV_ATTUNDA_RESOURCE_1997,1997,2008,FORMATION,K,RESOURCE_POOLING_FEDERATION,Brandkåren Attunda,Järfälla; Sollentuna; Upplands Väsby; Upplands-Bro,4,EXACT_YEAR,NOT_A_TREATMENT,SRC_RV_1998,Explicitly classified as 'förbund för resurser' in national reports.
+EV_RSG_1997,1997,,JOIN,A,KOMMUNALFORBUND,Räddningstjänsten Storgöteborg,Kungsbacka,1,EXACT_YEAR,PRE_PANEL,SRC_RSG_HIST2,
+EV_SBFF_1997,1997,,JOIN,A,KOMMUNALFORBUND,Södertörns brandförsvarsförbund,Södertälje,1,EXACT_YEAR,PRE_PANEL,SRC_SBFF_HIST,
+EV_NERIKES_1998,1998,,FORMATION,A,KOMMUNALFORBUND,Nerikes Brandkår,Hallsberg; Kumla; Lekeberg; Örebro,4,EXACT_YEAR,PRETREATED_OR_BASELINE,SRC_NERIKES_HIST,
+EV_SDRF_1998,1998,,FORMATION,A,KOMMUNALFORBUND,Södra Dalarnas Räddningstjänstförbund,Avesta; Hedemora,2,EXACT_YEAR,PRETREATED_OR_BASELINE,SRC_SDRF_HIST,
+EV_RSG_1999,1999,,SUCCESSOR_JOIN,A,KOMMUNALFORBUND,Räddningstjänsten Storgöteborg,Härryda; Partille,2,EXACT_YEAR,SUCCESSOR_ALREADY_TREATED,SRC_RSG_HIST2,Both were already in Härryda-Partille full federation by 1998.
+EV_VSR_1999,1999,,FORMATION,A,KOMMUNALFORBUND,Västra Sörmlands Räddningstjänst,Katrineholm; Vingåker,2,EXACT_YEAR,FIRST,SRC_VSR_HIST,
+EV_KARLSTAD_2000,2000,,FORMATION,A,KOMMUNALFORBUND,Räddningstjänsten Karlstadsregionen,Forshaga; Grums; Karlstad; Kil,4,EXACT_YEAR,FIRST,SRC_KARLSTAD_HIST,
+EV_OB_2000,2000,,FORMATION,A,KOMMUNALFORBUND,Räddningstjänsten Östra Blekinge,Karlskrona; Ronneby,2,EXACT_YEAR,FIRST,SRC_OB_HIST,
+EV_ON_FULL_2000,2000,,SCOPE_EXPANSION,A,KOMMUNALFORBUND,Räddningstjänstförbundet Östra Norrbotten,Haparanda; Kalix; Övertorneå,3,EXACT_YEAR,FIRST,SRC_ON_2009,Annual report states federation became comprehensive from 1 Jan 2000.
+EV_SBFF_2000,2000,,JOIN,A,KOMMUNALFORBUND,Södertörns brandförsvarsförbund,Nykvarn,1,EXACT_YEAR,FIRST,SRC_SBFF_ARCHIVE,Current SBFF history says 1998; archival/formal history says formally sixth member in 2000. Formal year used.
+EV_SORF_2000,2000,,FORMATION,A,KOMMUNALFORBUND,Sydöstra Skånes Räddningstjänstförbund,Simrishamn; Skurup; Tomelilla; Ystad,4,EXACT_YEAR,FIRST,SRC_SORF_HIST,
+EV_NERIKES_LAXA_2001,2001,,JOIN,A,KOMMUNALFORBUND,Nerikes Brandkår,Laxå,1,EXACT_YEAR,FIRST,SRC_NERIKES_HIST,
+EV_SDRF_NOR_2001,2001,,JOIN,A,KOMMUNALFORBUND,Södra Dalarnas Räddningstjänstförbund,Norberg,1,EXACT_YEAR,FIRST,SRC_SDRF_HIST,
+EV_FALKOPING_TIDAHOLM_2002,2002,,FORMATION,A,COMMON_BOARD,Gemensam räddningsnämnd Falköping-Tidaholm,Falköping; Tidaholm,2,EXACT_YEAR,FIRST,SRC_RV_2003,
+EV_HOGLAND_2002,2002,,FORMATION,A,KOMMUNALFORBUND,Höglandets Räddningstjänstförbund,Nässjö; Vetlanda,2,EXACT_YEAR,FIRST,SRC_HOGLANDET_HIST,
+EV_NERIKES_ASK_2002,2002,,JOIN,A,KOMMUNALFORBUND,Nerikes Brandkår,Askersund,1,EXACT_YEAR,FIRST,SRC_NERIKES_HIST,
+EV_SKARA_GOTENE_2002,2002,,FORMATION,A,COMMON_BOARD,Gemensam räddningsnämnd Skara-Götene,Götene; Skara,2,EXACT_YEAR,FIRST,SRC_RV_2003,
+EV_VAREND_2002,2002,,FORMATION,A,KOMMUNALFORBUND,Värends Räddningstjänstförbund,Alvesta; Växjö,2,EXACT_YEAR,FIRST,SRC_VAREND_HIST,Source explicitly states predecessor rescue services were in each municipality's own administration.
+EV_HKA_K_2003,2003,2004,FORMATION,K,LEADERSHIP_FEDERATION,Höga Kusten–Ådalen,Härnösand; Kramfors; Sollefteå,3,EXACT_YEAR,NOT_A_TREATMENT,SRC_HKA_HIST,"Leadership federation only: rescue chief, deputy and fire engineer initially employed by federation."
+EV_HUDIK_NORDAN_2003,2003,,FORMATION,A,COMMON_BOARD,Gemensam räddningsnämnd Hudiksvall-Nordanstig,Hudiksvall; Nordanstig,2,EXACT_YEAR,FIRST,SRC_RV_2003,
+EV_GASTRIKE_ALV_2004,2004,,JOIN,A,KOMMUNALFORBUND,Gästrike Räddningstjänst,Älvkarleby,1,EXACT_YEAR,FIRST,SRC_GASTRIKE_HIST,
+EV_NJRF_2004,2004,,FORMATION,A,KOMMUNALFORBUND,Norra Jämtlands Räddningstjänstförbund,Krokom; Strömsund; Östersund,3,EXACT_YEAR,FIRST,SRC_JAMTLAND_HIST,
+EV_SBFF_2004,2004,,JOIN,A,KOMMUNALFORBUND,Södertörns brandförsvarsförbund,Botkyrka; Salem,2,EXACT_YEAR,FIRST,SRC_SBFF_ARCHIVE,
+EV_VMRF_2004,2004,,FORMATION,A,KOMMUNALFORBUND,Västra Mälardalens räddningstjänstförbund,Arboga; Kungsör; Köping,3,EXACT_YEAR,FIRST,SRC_VMKF_HIST,
+EV_HKA_A_2005,2005,,SCOPE_EXPANSION,A,KOMMUNALFORBUND,Höga Kusten–Ådalen,Härnösand; Kramfors; Sollefteå,3,EXACT_YEAR,FIRST,SRC_HKA_HIST,Complete federation from 1 January 2005.
+EV_KARLSTAD_HAM_2005,2005,,JOIN,A,KOMMUNALFORBUND,Räddningstjänsten Karlstadsregionen,Hammarö,1,EXACT_YEAR,FIRST,SRC_KARLSTAD_HIST,
+EV_NORDUPP_2005,2005,,FORMATION,A,KOMMUNALFORBUND,Räddningstjänsten Norduppland,Tierp; Östhammar,2,EXACT_YEAR,FIRST,SRC_NORDUPPLAND_HIST,
+EV_EMMATOR_2006,2006,,FORMATION,A,KOMMUNALFORBUND,Räddningstjänstförbundet Emmaboda-Torsås,Emmaboda; Torsås,2,EXACT_YEAR,FIRST,SRC_EMMATOR_HIST,
+EV_RSYD_2006_ESLOV,2006,,SUCCESSOR_JOIN,A,KOMMUNALFORBUND,Räddningstjänsten Syd,Eslöv,1,EXACT_YEAR,SUCCESSOR_ALREADY_TREATED,SRC_RSYD_2006,Eslöv was already in Mellanskåne federation by 1998; re-entry after 2003 dissolution.
+EV_RSYD_2006_FIRST,2006,,FORMATION_OPERATIONAL,A,KOMMUNALFORBUND,Räddningstjänsten Syd,Burlöv; Kävlinge; Lund; Malmö,4,EXACT_YEAR,FIRST,SRC_RSYD_2006,Federation formed 1 July 2005; operations transferred from 1 January 2006.
+EV_VMKF_2006,2006,,SUCCESSOR,A,KOMMUNALFORBUND,Västra Mälardalens Kommunalförbund,Arboga; Kungsör; Köping,3,EXACT_YEAR,SUCCESSOR_ALREADY_TREATED,SRC_VMKF_HIST,
+EV_RSG_2007,2007,,JOIN,A,KOMMUNALFORBUND,Räddningstjänsten Storgöteborg,Lerum,1,EXACT_YEAR,FIRST,SRC_RSG_HIST2,
+EV_SBFF_2007,2007,,JOIN,A,KOMMUNALFORBUND,Södertörns brandförsvarsförbund,Ekerö,1,EXACT_YEAR,FIRST,SRC_SBFF_HIST,
+EV_SDRF_FAG_2007,2007,,JOIN,A,KOMMUNALFORBUND,Södra Dalarnas Räddningstjänstförbund,Fagersta,1,EXACT_YEAR,FIRST,SRC_SDRF_HIST,
+EV_ATTUNDA_2009_NEW,2009,,JOIN_FULL_SCOPE,A,KOMMUNALFORBUND,Brandkåren Attunda,Knivsta; Sigtuna,2,EXACT_YEAR,FIRST,SRC_SIGTUNA_ATTUNDA,Sigtuna source confirms full rescue-service responsibility from January 2009; Knivsta joins same six-municipality full-scope federation.
+EV_ATTUNDA_SCOPE_2008_2009,2009,,SCOPE_TRANSITION,A,KOMMUNALFORBUND,Brandkåren Attunda,Järfälla; Sollentuna; Upplands Väsby; Upplands-Bro,4,INTERVAL_2008_2009,INTERVAL_FIRST,SRC_SIGTUNA_ATTUNDA,National reports label Attunda resource-only through 2007; by 2009 it is a full rescue-service federation. Exact scope-transition date unresolved.
+EV_AVRF_2009,2009,,FORMATION,A,KOMMUNALFORBUND,Alingsås och Vårgårda Räddningstjänstförbund,Alingsås; Vårgårda,2,EXACT_YEAR,FIRST,SRC_AVRF,
+EV_ON_DISSOLVE_2009,2009,,DISSOLUTION,A,KOMMUNALFORBUND,Räddningstjänstförbundet Östra Norrbotten,Haparanda; Kalix; Övertorneå,3,EXACT_YEAR,REVERSAL,SRC_ON_2009,Federation dissolved 2009-12-31; municipality-level successor forms after dissolution not fully reconstructed.
+EV_SSBF_2009_FIRST,2009,,FORMATION,A,KOMMUNALFORBUND,Storstockholms brandförsvar,Lidingö; Stockholm,2,EXACT_YEAR,FIRST,SRC_SSBF_2009,Other SSBF members were already pooled in predecessor federations.
+EV_SSBF_2009_SUCCESSOR,2009,,SUCCESSOR,A,KOMMUNALFORBUND,Storstockholms brandförsvar,Danderyd; Solna; Sundbyberg; Täby; Vallentuna; Vaxholm; Värmdö; Österåker,8,EXACT_YEAR,SUCCESSOR_ALREADY_TREATED,SRC_SSBF_2009,
+EV_STOCKHOLM_SHARED_RC_2009,2009,,COORDINATION_START,K,SHARED_ALARM_LEADERSHIP,Räddningscentralen Stockholms län,Botkyrka; Ekerö; Haninge; Huddinge; Järfälla; Knivsta; Nacka; Nykvarn; Nynäshamn; Salem; Sigtuna; Sollentuna; Södertälje; Tyresö; Upplands Väsby; Upplands-Bro,16,EXACT_YEAR_MEDIUM,NOT_A_TREATMENT,SRC_SBFF_ARCHIVE,Shared larm/ledning between SBFF and Brandkåren Attunda; start year 2009 retained from institutional documentation chain.
+EV_JRF_2010_BERG,2010,,JOIN,A,KOMMUNALFORBUND,Jämtlands Räddningstjänstförbund,Berg,1,EXACT_YEAR,FIRST,SRC_JAMTLAND_HIST,
+EV_JRF_2010_BRACKE,2010,,SUCCESSOR_JOIN,A,KOMMUNALFORBUND,Jämtlands Räddningstjänstförbund,Bräcke,1,EXACT_YEAR,SUCCESSOR_ALREADY_TREATED,SRC_JAMTLAND_HIST,Bräcke already observed in Östjämtland federation in 2003/2004.
+EV_NERIKES_LN_2010,2010,,JOIN,A,KOMMUNALFORBUND,Nerikes Brandkår,Lindesberg; Nora,2,EXACT_YEAR,FIRST,SRC_NERIKES_HIST,
+EV_ON_POSTK_2010,2010,,COORDINATION_AFTER_DISSOLUTION,K,BOUNDARYLESS_OPERATIONAL_COOPERATION,Östra Norrbotten gränslös räddningstjänst,Haparanda; Kalix; Övertorneå,3,EXACT_POST_DISSOLUTION_PERIOD,NOT_A_TREATMENT,SRC_ON_POSTK,Former full federation replaced by operational boundaryless rescue cooperation.
+EV_PITEA_ALV_PREK,2010,2019,COORDINATION_EXISTING,K,SHARED_RESCUE_CHIEF,Piteå–Älvsbyn prior cooperation,Piteå; Älvsbyn,2,APPROXIMATE_DECADE,NOT_A_TREATMENT,SRC_PITEA_COMMON,Later municipal report states about ten years of close cooperation/shared rescue chief before 2020 common board; exact start not locked.
+EV_RTOG_2010,2010,,FORMATION,A,KOMMUNALFORBUND,Räddningstjänsten Östra Götaland,Linköping; Norrköping,2,EXACT_YEAR,FIRST,SRC_RTOG_2010,Source states predecessor municipal rescue services were transferred.
+EV_SBFF_2010,2010,,JOIN,A,KOMMUNALFORBUND,Södertörns brandförsvarsförbund,Nacka,1,EXACT_YEAR,FIRST,SRC_SBFF_HIST,
+EV_KARLSTAD_MUNK_2011,2011,,SUCCESSOR_JOIN,A,KOMMUNALFORBUND,Räddningstjänsten Karlstadsregionen,Munkfors,1,EXACT_YEAR,SUCCESSOR_ALREADY_TREATED,SRC_KARLSTAD_HIST,Munkfors already in Klarälvdalen federation by 2000.
+EV_JRF_2012_RAG,2012,,SUCCESSOR_JOIN,A,KOMMUNALFORBUND,Jämtlands Räddningstjänstförbund,Ragunda,1,EXACT_YEAR,SUCCESSOR_ALREADY_TREATED,SRC_JAMTLAND_HIST,Ragunda already observed in Östjämtland federation in 2003/2004.
+EV_UPP_COMMON_2012_SUCC,2012,,SUCCESSOR,A,COMMON_BOARD,Gemensam räddningsnämnd Tierp-Uppsala-Östhammar,Tierp; Östhammar,2,EXACT_YEAR,SUCCESSOR_ALREADY_TREATED,SRC_UPP_COMMON,
+EV_UPP_COMMON_2012_UPP,2012,,FORMATION,A,COMMON_BOARD,Gemensam räddningsnämnd Tierp-Uppsala-Östhammar,Uppsala,1,EXACT_YEAR,FIRST,SRC_UPP_COMMON,
+EV_BORF_2013,2013,,FORMATION,A,KOMMUNALFORBUND,Bohus Räddningstjänstförbund,Ale; Kungälv,2,EXACT_YEAR,FIRST,SRC_BORF,
+EV_RVAST_2013,2013,,FORMATION_OPERATIONAL,A,KOMMUNALFORBUND,Räddningstjänsten Väst,Falkenberg; Varberg,2,EXACT_YEAR,FIRST,SRC_RVAST,
+EV_JRF_2015_HAR,2015,,JOIN,A,KOMMUNALFORBUND,Jämtlands Räddningstjänstförbund,Härjedalen,1,EXACT_YEAR,FIRST,SRC_JAMTLAND_HIST,
+EV_RSNV_2015,2015,,FORMATION,A,KOMMUNALFORBUND,Räddningstjänsten Skåne Nordväst,Helsingborg; Ängelholm; Örkelljunga,3,EXACT_YEAR,FIRST,SRC_RSNV,
+EV_NERIKES_LJUS_2018,2018,,JOIN,A,KOMMUNALFORBUND,Nerikes Brandkår,Ljusnarsberg,1,EXACT_YEAR,FIRST,SRC_NERIKES_HIST,
+EV_RSNV_BJUV_2019,2019,,JOIN,A,KOMMUNALFORBUND,Räddningstjänsten Skåne Nordväst,Bjuv,1,EXACT_YEAR_MEDIUM_HIGH,FIRST,SRC_RSNV,
+EV_VRR_2019,2019,,COORDINATION_START,K,SHARED_LEADERSHIP_SYSTEM,Västra räddningsledningssystemet,Ale; Göteborg; Härryda; Kungsbacka; Kungälv; Lerum; Mölndal; Partille,8,EXACT_START_PARTICIPANT_SET_PARTIAL,NOT_A_TREATMENT,SRC_VRR_2019,"Shared rescue leadership system from 2019-10-01; member set here limited to directly connected Göteborg-region/BORF municipalities, not asserted exhaustive."
+EV_PITEA_ALV_2020,2020,,FORMATION,A,COMMON_BOARD,Gemensam räddningsnämnd Piteå-Älvsbyn,Piteå; Älvsbyn,2,EXACT_YEAR,FIRST,SRC_PITEA_COMMON,

@@ -1,0 +1,102 @@
+{
+  "version": "RESCUE_HISTORICAL_2002_ESTIMATOR_ANALYSIS_PROTOCOL_v0.1",
+  "created": "2026-09-23",
+  "status": "FROZEN_BEFORE_POST_UNMASK",
+  "outcome_firewall": "2003-2004 CLOSED AT FREEZE",
+  "treated_events": [
+    "EV_FALKOPING_TIDAHOLM_2002",
+    "EV_HOGLAND_2002",
+    "EV_NERIKES_ASK_2002",
+    "EV_SKARA_GOTENE_2002",
+    "EV_VAREND_2002"
+  ],
+  "control_events": [
+    "EV_ATTUNDA_2009_NEW",
+    "EV_AVRF_2009",
+    "EV_BORF_2013",
+    "EV_EMMATOR_2006",
+    "EV_JRF_2010_BERG",
+    "EV_JRF_2015_HAR",
+    "EV_NERIKES_LJUS_2018",
+    "EV_NERIKES_LN_2010",
+    "EV_PITEA_ALV_2020",
+    "EV_RSG_2007",
+    "EV_RSNV_2015",
+    "EV_RSNV_BJUV_2019",
+    "EV_RSYD_2006_FIRST",
+    "EV_RTOG_2010",
+    "EV_RVAST_2013",
+    "EV_SBFF_2007",
+    "EV_SBFF_2010",
+    "EV_SDRF_FAG_2007",
+    "EV_SSBF_2009_FIRST",
+    "EV_UPP_COMMON_2012_UPP"
+  ],
+  "model_years": [
+    1998,
+    1999,
+    2000,
+    2003,
+    2004
+  ],
+  "excluded_years": [
+    2001,
+    2002
+  ],
+  "inputs": {
+    "RESCUE_HISTORICAL_2002_TREATMENT_COHORT_v0.1.csv": {
+      "sha256": "b29c29c5c89b8ffe93d702f856c4b51e263b10df6fb17f986550f6a87defd9e4",
+      "bytes": 2177
+    },
+    "RESCUE_HISTORICAL_2002_CONTROL_RISK_SET_v0.1.csv": {
+      "sha256": "c9197005565abef82a0eb0204a60a06a874f9a68724063effc00dc9415355103",
+      "bytes": 9419
+    },
+    "RESCUE_HISTORICAL_2002_PRETREATMENT_PANEL_WITH_RATE_v0.1.csv": {
+      "sha256": "cfeaa8425921a34684010ceff219350da6a370b27e455dee84488a09122e5003",
+      "bytes": 21323
+    },
+    "RESCUE_HISTORICAL_2002_PRIMARY_RATE_PRETREND_AUDIT_v0.1.json": {
+      "sha256": "8a88cd46206bbedf43a63f43b759881c7e3b847cd69ca53dd5eacb57b29f38fd",
+      "bytes": 2034
+    },
+    "RESCUE_HISTORICAL_2002_PRIMARY_RATE_PRETREND_GATES_v0.1.csv": {
+      "sha256": "3f0659ffc367116c7156700eee976a84c81bb72f8645ed9d8321ed77350ca57c",
+      "bytes": 865
+    }
+  },
+  "artifacts": {
+    "Raddningstjanst-Historical-2002-Estimator-Analysis-Protocol-v0.1.md": {
+      "sha256": "a33c8f43cc4139754052d60c84655fb190ea7939ebd7f434a57b332eb246d7b1",
+      "bytes": 4449
+    },
+    "Raddningstjanst-Historical-2002-Estimator-Analysis-Protocol-v0.1.xlsx": {
+      "sha256": "47fc520c1271b26b1c8013caf89489e6214e9c6e0a39ff2efe068e137e308e2b",
+      "bytes": 139166
+    },
+    "RESCUE_HISTORICAL_2002_ANALYSIS_SPEC_v0.1.csv": {
+      "sha256": "b1e8da1b01c3512589b32a5b7de7d1b859a43e5d9d2b00ac19566b4fc136f902",
+      "bytes": 2498
+    },
+    "RESCUE_HISTORICAL_2002_OUTCOME_LOCK_v0.1.csv": {
+      "sha256": "f6c749940aebd26c06829419187f7dfe76c953d702e0485a1ad38c7420c65672",
+      "bytes": 968
+    },
+    "RESCUE_HISTORICAL_2002_SENSITIVITY_LOCK_v0.1.csv": {
+      "sha256": "7b560fa79452a038bdbf1d61b8d11d3251d11ea70280573d818f64badf781e3b",
+      "bytes": 1396
+    },
+    "RESCUE_HISTORICAL_2002_INTERPRETATION_RULES_v0.1.csv": {
+      "sha256": "2f49c12f4bff5f2791e6b0f6817341af9a0cfe6de957dec0446c56b2d4dbaf9e",
+      "bytes": 1486
+    },
+    "RESCUE_HISTORICAL_2002_PRIMARY_POST_UNMASK_REQUESTS_v0.1.csv": {
+      "sha256": "4fa09a640b52bdcda862bb9992a61345c4cd9c08f33365e5cdd190285138a065",
+      "bytes": 30672
+    },
+    "run_historical_2002_locked_analysis_v0.1.py": {
+      "sha256": "118362edca3d87cb5ce604f42787f650591b67d9c455c3598fdafc3b5214b335",
+      "bytes": 12934
+    }
+  }
+}

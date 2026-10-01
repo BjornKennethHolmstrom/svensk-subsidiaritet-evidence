@@ -1,0 +1,291 @@
+﻿municipality_code,municipality_name,exists_from_year,first_full_A_lower,first_full_A_upper,first_full_A_exact,first_event_id,first_treatment_status,causal_eligibility,pre_status_basis,reversal_flag,reversal_year,notes
+1440,Ale,1998,2013,2013,2013,EV_BORF_2013,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1489,Alingsås,1998,2009,2009,2009,EV_AVRF_2009,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0764,Alvesta,1998,2002,2002,2002,EV_VAREND_2002,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0604,Aneby,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1984,Arboga,1998,2004,2004,2004,EV_VMRF_2004,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2506,Arjeplog,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2505,Arvidsjaur,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1784,Arvika,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1882,Askersund,1998,2002,2002,2002,EV_NERIKES_ASK_2002,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2084,Avesta,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1460,Bengtsfors,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2326,Berg,1998,2010,2010,2010,EV_JRF_2010_BERG,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2403,Bjurholm,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1260,Bjuv,1998,2019,2019,2019,EV_RSNV_BJUV_2019,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2582,Boden,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1443,Bollebygd,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2183,Bollnäs,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0885,Borgholm,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2081,Borlänge,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1490,Borås,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0127,Botkyrka,1998,2004,2004,2004,EV_SBFF_2004,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0560,Boxholm,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1272,Bromölla,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2305,Bräcke,1998,2003,2003,,,SNAPSHOT_PINPOINTED_YEAR,ELIGIBLE_INTERVAL_ONLY,Absent from strict FULL_A 2002 snapshot; first observed FULL_A in 2003 national report,False,,
+1231,Burlöv,1998,2006,2006,2006,EV_RSYD_2006_FIRST,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1278,Båstad,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1438,Dals-Ed,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0162,Danderyd,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1862,Degerfors,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2425,Dorotea,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1730,Eda,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0125,Ekerö,1998,2007,2007,2007,EV_SBFF_2007,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0686,Eksjö,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0862,Emmaboda,1998,2006,2006,2006,EV_EMMATOR_2006,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0381,Enköping,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0484,Eskilstuna,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1285,Eslöv,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1445,Essunga,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1982,Fagersta,1998,2007,2007,2007,EV_SDRF_FAG_2007,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1382,Falkenberg,1998,2013,2013,2013,EV_RVAST_2013,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1499,Falköping,1998,2002,2002,2002,EV_FALKOPING_TIDAHOLM_2002,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2080,Falun,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1782,Filipstad,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0562,Finspång,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0482,Flen,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1763,Forshaga,1998,2000,2000,2000,EV_KARLSTAD_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1439,Färgelanda,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2026,Gagnef,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0662,Gislaved,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0461,Gnesta,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0617,Gnosjö,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0980,Gotland,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1764,Grums,1998,2000,2000,2000,EV_KARLSTAD_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1444,Grästorp,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1447,Gullspång,1998,2001,2002,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 2000 snapshot; strict FULL_A by 2002,False,,
+2523,Gällivare,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2180,Gävle,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1480,Göteborg,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1471,Götene,1998,2002,2002,2002,EV_SKARA_GOTENE_2002,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0643,Habo,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1783,Hagfors,1998,1999,2000,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 1998 snapshot; strict FULL_A by 2000,False,,
+1861,Hallsberg,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1961,Hallstahammar,1998,2003,2004,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 2002 snapshot; strict FULL_A by 2004,False,,
+1380,Halmstad,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1761,Hammarö,1998,2005,2005,2005,EV_KARLSTAD_HAM_2005,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0136,Haninge,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2583,Haparanda,1998,2000,2000,2000,EV_ON_FULL_2000,EXACT_FIRST_TREATMENT,REVERSAL_EXCLUDE_PRIMARY,Institutional event source + no earlier strict FULL_A snapshot conflict,True,2010,Full federation dissolved 2009-12-31; current A form after dissolution not fully reconstructed.
+0331,Heby,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2083,Hedemora,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1283,Helsingborg,1998,2015,2015,2015,EV_RSNV_2015,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1466,Herrljunga,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1497,Hjo,1998,1999,2000,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 1998 snapshot; strict FULL_A by 2000,False,,
+2104,Hofors,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0126,Huddinge,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2184,Hudiksvall,1998,2003,2003,2003,EV_HUDIK_NORDAN_2003,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0860,Hultsfred,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1315,Hylte,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0305,Håbo,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1863,Hällefors,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2361,Härjedalen,1998,2015,2015,2015,EV_JRF_2015_HAR,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2280,Härnösand,1998,2005,2005,2005,EV_HKA_A_2005,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1401,Härryda,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1293,Hässleholm,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1284,Höganäs,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0821,Högsby,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1266,Hörby,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1267,Höör,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2510,Jokkmokk,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0123,Järfälla,1998,2008,2009,,EV_ATTUNDA_SCOPE_2008_2009,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,RESOURCE_ONLY through 2007; full-scope federation by 2009,False,,
+0680,Jönköping,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2514,Kalix,1998,2000,2000,2000,EV_ON_FULL_2000,EXACT_FIRST_TREATMENT,REVERSAL_EXCLUDE_PRIMARY,Institutional event source + no earlier strict FULL_A snapshot conflict,True,2010,Full federation dissolved 2009-12-31; current A form after dissolution not fully reconstructed.
+0880,Kalmar,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1446,Karlsborg,1998,1999,2000,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 1998 snapshot; strict FULL_A by 2000,False,,
+1082,Karlshamn,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1883,Karlskoga,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1080,Karlskrona,1998,2000,2000,2000,EV_OB_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1780,Karlstad,1998,2000,2000,2000,EV_KARLSTAD_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0483,Katrineholm,1998,1999,1999,1999,EV_VSR_1999,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1715,Kil,1998,2000,2000,2000,EV_KARLSTAD_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0513,Kinda,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2584,Kiruna,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1276,Klippan,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0330,Knivsta,2003,2009,2009,2009,EV_ATTUNDA_2009_NEW,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2282,Kramfors,1998,2005,2005,2005,EV_HKA_A_2005,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1290,Kristianstad,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1781,Kristinehamn,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2309,Krokom,1998,2004,2004,2004,EV_NJRF_2004,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1881,Kumla,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1384,Kungsbacka,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1960,Kungsör,1998,2004,2004,2004,EV_VMRF_2004,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1482,Kungälv,1998,2013,2013,2013,EV_BORF_2013,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1261,Kävlinge,1998,2006,2006,2006,EV_RSYD_2006_FIRST,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1983,Köping,1998,2004,2004,2004,EV_VMRF_2004,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1381,Laholm,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1282,Landskrona,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1860,Laxå,1998,2001,2001,2001,EV_NERIKES_LAXA_2001,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1814,Lekeberg,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2029,Leksand,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1441,Lerum,1998,2007,2007,2007,EV_RSG_2007,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0761,Lessebo,1998,2003,2003,,,SNAPSHOT_PINPOINTED_YEAR,ELIGIBLE_INTERVAL_ONLY,Absent from strict FULL_A 2002 snapshot; first observed FULL_A in 2003 national report,False,,
+0186,Lidingö,1998,2009,2009,2009,EV_SSBF_2009_FIRST,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1494,Lidköping,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1462,Lilla Edet,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1885,Lindesberg,1998,2010,2010,2010,EV_NERIKES_LN_2010,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0580,Linköping,1998,2010,2010,2010,EV_RTOG_2010,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0781,Ljungby,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2161,Ljusdal,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1864,Ljusnarsberg,1998,2018,2018,2018,EV_NERIKES_LJUS_2018,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1262,Lomma,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2085,Ludvika,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2580,Luleå,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1281,Lund,1998,2006,2006,2006,EV_RSYD_2006_FIRST,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2481,Lycksele,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1484,Lysekil,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1280,Malmö,1998,2006,2006,2006,EV_RSYD_2006_FIRST,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2023,Malung-Sälen,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2418,Malå,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1493,Mariestad,1998,1999,2000,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 1998 snapshot; strict FULL_A by 2000,False,,
+1463,Mark,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0767,Markaryd,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1461,Mellerud,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0586,Mjölby,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2062,Mora,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0583,Motala,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0642,Mullsjö,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1430,Munkedal,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1762,Munkfors,1998,1999,2000,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 1998 snapshot; strict FULL_A by 2000,False,,
+1481,Mölndal,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0861,Mönsterås,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0840,Mörbylånga,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0182,Nacka,1998,2010,2010,2010,EV_SBFF_2010,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1884,Nora,1998,2010,2010,2010,EV_NERIKES_LN_2010,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1962,Norberg,1998,2001,2001,2001,EV_SDRF_NOR_2001,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2132,Nordanstig,1998,2003,2003,2003,EV_HUDIK_NORDAN_2003,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2401,Nordmaling,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0581,Norrköping,1998,2010,2010,2010,EV_RTOG_2010,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0188,Norrtälje,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2417,Norsjö,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0881,Nybro,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0140,Nykvarn,1999,2000,2000,2000,EV_SBFF_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0480,Nyköping,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0192,Nynäshamn,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0682,Nässjö,1998,2002,2002,2002,EV_HOGLAND_2002,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2101,Ockelbo,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1060,Olofström,1998,2001,2002,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 2000 snapshot; strict FULL_A by 2002,False,,
+2034,Orsa,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1421,Orust,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1273,Osby,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0882,Oskarshamn,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2121,Ovanåker,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0481,Oxelösund,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2521,Pajala,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1402,Partille,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1275,Perstorp,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2581,Piteå,1998,2020,2020,2020,EV_PITEA_ALV_2020,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2303,Ragunda,1998,2003,2003,,,SNAPSHOT_PINPOINTED_YEAR,ELIGIBLE_INTERVAL_ONLY,Absent from strict FULL_A 2002 snapshot; first observed FULL_A in 2003 national report,False,,
+2409,Robertsfors,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1081,Ronneby,1998,2000,2000,2000,EV_OB_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2031,Rättvik,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1981,Sala,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0128,Salem,1998,2004,2004,2004,EV_SBFF_2004,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2181,Sandviken,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0191,Sigtuna,1998,2009,2009,2009,EV_ATTUNDA_2009_NEW,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1291,Simrishamn,1998,2000,2000,2000,EV_SORF_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1265,Sjöbo,1998,2006,2007,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 2005 snapshot; strict FULL_A by 2007,False,,
+1495,Skara,1998,2002,2002,2002,EV_SKARA_GOTENE_2002,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2482,Skellefteå,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1904,Skinnskatteberg,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1264,Skurup,1998,2000,2000,2000,EV_SORF_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1496,Skövde,1998,1999,2000,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 1998 snapshot; strict FULL_A by 2000,False,,
+2061,Smedjebacken,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2283,Sollefteå,1998,2005,2005,2005,EV_HKA_A_2005,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0163,Sollentuna,1998,2008,2009,,EV_ATTUNDA_SCOPE_2008_2009,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,RESOURCE_ONLY through 2007; full-scope federation by 2009,False,,
+0184,Solna,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2422,Sorsele,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1427,Sotenäs,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1230,Staffanstorp,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1415,Stenungsund,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0180,Stockholm,1998,2009,2009,2009,EV_SSBF_2009_FIRST,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1760,Storfors,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2421,Storuman,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0486,Strängnäs,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1486,Strömstad,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2313,Strömsund,1998,2004,2004,2004,EV_NJRF_2004,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0183,Sundbyberg,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2281,Sundsvall,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1766,Sunne,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1907,Surahammar,1998,2001,2002,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 2000 snapshot; strict FULL_A by 2002,False,,
+1214,Svalöv,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1263,Svedala,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1465,Svenljunga,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1785,Säffle,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2082,Säter,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0684,Sävsjö,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2182,Söderhamn,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0582,Söderköping,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0181,Södertälje,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1083,Sölvesborg,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1435,Tanum,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1472,Tibro,1998,1999,2000,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 1998 snapshot; strict FULL_A by 2000,False,,
+1498,Tidaholm,1998,2002,2002,2002,EV_FALKOPING_TIDAHOLM_2002,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0360,Tierp,1998,2005,2005,2005,EV_NORDUPP_2005,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2262,Timrå,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0763,Tingsryd,1998,2003,2003,,,SNAPSHOT_PINPOINTED_YEAR,ELIGIBLE_INTERVAL_ONLY,Absent from strict FULL_A 2002 snapshot; first observed FULL_A in 2003 national report,False,,
+1419,Tjörn,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1270,Tomelilla,1998,2000,2000,2000,EV_SORF_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1737,Torsby,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0834,Torsås,1998,2006,2006,2006,EV_EMMATOR_2006,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1452,Tranemo,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0687,Tranås,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1287,Trelleborg,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1488,Trollhättan,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0488,Trosa,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0138,Tyresö,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0160,Täby,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1473,Töreboda,1998,2001,2002,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 2000 snapshot; strict FULL_A by 2002,False,,
+1485,Uddevalla,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1491,Ulricehamn,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2480,Umeå,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0114,Upplands Väsby,1998,2008,2009,,EV_ATTUNDA_SCOPE_2008_2009,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,RESOURCE_ONLY through 2007; full-scope federation by 2009,False,,
+0139,Upplands-Bro,1998,2008,2009,,EV_ATTUNDA_SCOPE_2008_2009,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,RESOURCE_ONLY through 2007; full-scope federation by 2009,False,,
+0380,Uppsala,1998,2012,2012,2012,EV_UPP_COMMON_2012_UPP,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0760,Uppvidinge,1998,2003,2003,,,SNAPSHOT_PINPOINTED_YEAR,ELIGIBLE_INTERVAL_ONLY,Absent from strict FULL_A 2002 snapshot; first observed FULL_A in 2003 national report,False,,
+0584,Vadstena,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0665,Vaggeryd,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0563,Valdemarsvik,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0115,Vallentuna,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2021,Vansbro,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1470,Vara,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1383,Varberg,1998,2013,2013,2013,EV_RVAST_2013,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0187,Vaxholm,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1233,Vellinge,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0685,Vetlanda,1998,2002,2002,2002,EV_HOGLAND_2002,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2462,Vilhelmina,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0884,Vimmerby,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2404,Vindeln,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0428,Vingåker,1998,1999,1999,1999,EV_VSR_1999,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1442,Vårgårda,1998,2009,2009,2009,EV_AVRF_2009,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1487,Vänersborg,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+2460,Vännäs,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0120,Värmdö,1998,2006,2007,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 2005 snapshot; strict FULL_A by 2007,False,,
+0683,Värnamo,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0883,Västervik,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1980,Västerås,1998,2001,2002,,,INTERVAL_CENSORED_FIRST_TREATMENT,ELIGIBLE_INTERVAL_ONLY,Not strict FULL_A in 2000 snapshot; strict FULL_A by 2002,False,,
+0780,Växjö,1998,2002,2002,2002,EV_VAREND_2002,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0512,Ydre,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1286,Ystad,1998,2000,2000,2000,EV_SORF_2000,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1492,Åmål,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2260,Ånge,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2321,Åre,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1765,Årjäng,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2463,Åsele,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1277,Åstorp,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0561,Åtvidaberg,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0765,Älmhult,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2039,Älvdalen,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0319,Älvkarleby,1998,2004,2004,2004,EV_GASTRIKE_ALV_2004,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2560,Älvsbyn,1998,2020,2020,2020,EV_PITEA_ALV_2020,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1292,Ängelholm,1998,2015,2015,2015,EV_RSNV_2015,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1407,Öckerö,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+0509,Ödeshög,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+1880,Örebro,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+1257,Örkelljunga,1998,2015,2015,2015,EV_RSNV_2015,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+2284,Örnsköldsvik,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2380,Östersund,1998,2004,2004,2004,EV_NJRF_2004,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+0117,Österåker,1998,,1998,,,PRETREATED_BY_1998,PRETREATED_EXCLUDE,Strict FULL_A membership in 1998 national snapshot,False,,First full pooling occurred no later than 1998; no within-panel untreated period.
+0382,Östhammar,1998,2005,2005,2005,EV_NORDUPP_2005,EXACT_FIRST_TREATMENT,ELIGIBLE_EXACT,Institutional event source + no earlier strict FULL_A snapshot conflict,False,,
+1256,Östra Göinge,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2513,Överkalix,1998,,,,,UNRESOLVED,UNRESOLVED_EXCLUDE,,False,,No verified full-A first treatment identified in v0.2 source set through 2020; do not treat as never-treated without further verification.
+2518,Övertorneå,1998,2000,2000,2000,EV_ON_FULL_2000,EXACT_FIRST_TREATMENT,REVERSAL_EXCLUDE_PRIMARY,Institutional event source + no earlier strict FULL_A snapshot conflict,True,2010,Full federation dissolved 2009-12-31; current A form after dissolution not fully reconstructed.

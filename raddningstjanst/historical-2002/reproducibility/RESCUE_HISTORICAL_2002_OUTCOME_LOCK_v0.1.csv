@@ -1,0 +1,7 @@
+outcome_id,name,numerator,model,role,direction
+PRIMARY,ARRIVAL_BEYOND_START_OBJECT_RATE_PER_100K,Brand i ett rum + Brand i flera rum + Brand i flera brandceller,Poisson count with log population offset,PRIMARY,lower is favorable
+S1,ARRIVAL_BEYOND_ONE_ROOM_RATE_PER_100K,Brand i flera rum + Brand i flera brandceller,Same Poisson specification,SEVERITY_SENSITIVITY,lower is favorable
+S2,ARRIVAL_MULTI_FIRECELL_RATE_PER_100K,Brand i flera brandceller,Same Poisson specification,SEVERE_TAIL_SENSITIVITY,lower is favorable
+QA1,ALL_BUILDING_FIRE_RECORD_RATE_PER_100K,all seven category records including Ej angiven,Same Poisson specification / descriptive,REPORTING_AND_COMPOSITION_QA,none
+QA2,ARRIVAL_EXTENT_MISSING_SHARE,Ej angiven,Descriptive period/group shares; no causal primary claim,MISSINGNESS_QA,none
+D1,PRIMARY_SHARE_AMONG_VALID,primary count / all known extent records,Descriptive controlled difference in shares,SECONDARY_DESCRIPTIVE,lower is favorable

@@ -1,0 +1,53 @@
+{
+  "version": "RESCUE_UPPSALA_2012_PROTOCOL_ACTIVATION_PATCH_v0.1",
+  "created": "2026-09-10",
+  "base_protocol": "Raddningstjanst-Uppsala-2012-Estimator-Analysis-Protocol-v0.1",
+  "base_protocol_manifest_sha256": "24d4da4f635ff5e6deb654d1a2b376a3ee01d3f085fa1991bc8808777c70ccb0",
+  "base_protocol_md_sha256": "0835842109818e94bd90cced719a476d59a81e70a1933e16ced20e4c8f305af0",
+  "method_changes": false,
+  "activation_gate_update": {
+    "gate": "jonkoping_A0_through_2014",
+    "previous_status": "OPEN",
+    "new_status": "PASS",
+    "evidence_standard": "HIGH_BOUNDED_ARCHIVAL",
+    "reason": "Contemporaneous 2012/2014 municipal governance evidence, September/October 2014 RäddSam F agreement-based cooperation, end-2014 municipal internal-budget continuity, and targeted negative search found no rescue-service A/commitment."
+  },
+  "protocol_status_after_patch": "ACTIVATED_FOR_PRIMARY_BATCH_1",
+  "primary_unmask_authorized": true,
+  "authorized_batch": {
+    "years": [
+      2012,
+      2013,
+      2014
+    ],
+    "municipalities": [
+      {
+        "code": "0380",
+        "name": "Uppsala",
+        "role": "treated"
+      },
+      {
+        "code": "0680",
+        "name": "Jönköping",
+        "role": "primary donor"
+      },
+      {
+        "code": "2581",
+        "name": "Piteå",
+        "role": "secondary donor component"
+      },
+      {
+        "code": "2560",
+        "name": "Älvsbyn",
+        "role": "secondary donor component"
+      }
+    ],
+    "expected_municipality_year_rows": 12
+  },
+  "still_closed": [
+    "Halmstad 2012-2014 pending separate K gate",
+    "Skåne Nordväst robustness outcomes until after strict primary result",
+    "2011 anticipation diagnostic",
+    "2015 measurement-edge sensitivity"
+  ]
+}
